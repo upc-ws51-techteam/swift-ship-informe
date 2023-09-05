@@ -169,6 +169,22 @@
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
 <h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre y edad?
+2. ¿A qué te dedicas actualmente?
+3. ¿Cuáles son las redes que más usas?
+
+**Preguntas Específicas para Clientes:**
+
+1. ¿Alguna vez has alquilado un barco?
+2. ¿Por qué lo alquilaste?
+3. ¿Cuál fue el medio que utilizaste para buscar dónde alquilar un barco?
+4. ¿En qué te fijas al momento de alquilar un barco?
+5. ¿Consideras que una aplicación, ya sea web o móvil, para el servicio de alquiler de barcos es mejor que contactar con el proveedor de manera tradicional?
+6. ¿Cuáles son los factores más importantes que estarías buscando en el servicio ofrecido de alquiler de barcos?
+
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
