@@ -169,7 +169,110 @@
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
 <h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre y edad?
+2. ¿A qué te dedicas actualmente?
+3. ¿Cuáles son las redes que más usas?
+
+**Preguntas Específicas para Clientes:**
+
+1. ¿Alguna vez has alquilado un barco?
+2. ¿Por qué lo alquilaste?
+3. ¿Cuál fue el medio que utilizaste para buscar dónde alquilar un barco?
+4. ¿En qué te fijas al momento de alquilar un barco?
+5. ¿Consideras que una aplicación, ya sea web o móvil, para el servicio de alquiler de barcos es mejor que contactar con el proveedor de manera tradicional?
+6. ¿Cuáles son los factores más importantes que estarías buscando en el servicio ofrecido de alquiler de barcos?
+
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
+
+**Usuario cliente**
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Donny  | Enriquez |  22  |
+
+<img src="./static/entrevist-donny-enriquez-usuario.png" >
+<p align="left"><strong>URL: </strong> <a href="https://youtu.be/Oe27gjQdHzk" target="_blank">Entrevista Donny Enriquez</a></p>
+<p align="justify">Resumen entrevista: Donny, un estudiante de gastronomía en la USIL, utiliza con mayor frecuencia Instagram, WhatsApp y ocasionalmente Facebook. Donny ha alquilado un barco en el pasado, específicamente para celebrar su cumpleaños. Cuando intentó encontrar un barco para alquilar, enfrentó desafíos considerables y dedicó un tiempo considerable a buscar en diversas plataformas, como Facebook Marketplace, contactos personales y publicaciones en Google.</br></br>Los principales obstáculos que Donny encontró durante su búsqueda incluyeron la falta de coherencia en las fechas de disponibilidad. A veces, las publicaciones indicaban que la embarcación estaba disponible, pero al llamar, se le informaba que ya no lo estaba. Además, Donny buscaba un barco con suficiente capacidad para su fiesta y que permitiera eventos a bordo.</br></br>Al momento de alquilar un barco, Donny se enfoca en el aforo, un precio razonable, el estado de la embarcación, las fechas disponibles y la presencia de medidas de seguridad. Donny considera que nuestra aplicación es revolucionaria y sería de gran ayuda para muchos usuarios. Quedó sorprendido por la falta de información y opciones en línea para el alquiler de barcos, a pesar de que es similar al alquiler de automóviles, que es más fácil de encontrar.</br></br>Donny sugiere que la plataforma debe contar con una amplia selección de proveedores de embarcaciones, y cada proveedor debe ser contactable directamente desde la aplicación. Las publicaciones de las embarcaciones deben incluir información esencial, como el aforo, el precio, la disponibilidad de medidas de seguridad, fotos de la embarcación, reseñas de otros usuarios y un calendario de disponibilidad para evitar confusiones sobre las fechas de alquiler.
+</p>
+</div>
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre        | Apellido      | Edad |
+| :------------ | :------------ | :--: |
+| Matthew Andre | Lopez Sanchez |  22  |
+
+<img src="./static/entrevista-matthew-andre-lopez-sanchez-usuario.png" >
+<p align="left"><strong>URL: </strong> <a href="https://youtu.be/5WwkAw4ClbY" target="_blank">Entrevista Matthew Andre Lopez Sanchez</a></p>
+<p align="justify">
+Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmente en la Dirección General de Operaciones en Salud (DGOS) del Ministerio de Salud (Minsa), donde se encarga del mantenimiento de infraestructuras hospitalarias. Sus plataformas preferidas para obtener información son Instagram y Facebook. Matthew nos informa que ha alquilado un barco en el pasado, siendo la última vez que lo hizo para disfrutar de una jornada de pesca en familia. Sin embargo, se enfrentó a dificultades para encontrar información relevante sobre el alquiler de embarcaciones debido a la escasez de recursos en línea. Utilizó Google, Facebook Marketplace e Instagram para su búsqueda, aunque no tuvo éxito en esta última plataforma.</br></br>Matthew señala que sus criterios principales al buscar un barco eran garantizar que todos los miembros de su familia tuvieran suficiente espacio a bordo y no se sintieran apretados. Además, la ubicación del barco era un factor crucial, ya que a veces se encontraban en puertos lejanos de Lima, lo que complicaba la logística. Por último, aunque el precio del alquiler no era su principal preocupación, consideraba importante que fuera razonable.</br></br>Matthew valora positivamente la idea de nuestra aplicación y considera que sería de gran utilidad tanto para él como para otros usuarios que estén en busca de alquilar o encontrar un barco. Opina que el éxito de la plataforma dependerá de una amplia selección de embarcaciones disponibles, información precisa sobre su disponibilidad, detalles como la capacidad, fecha de fabricación, estado de las revisiones técnicas y el precio. También sugiere que la plataforma incluya un historial de comentarios de personas que hayan alquilado el mismo barco previamente, para brindar una perspectiva adicional a los futuros usuarios.
+</p>
+</div>
+
+<h4>Entrevista 3</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+</br>
+
+**Usuario otro**
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h4>Entrevista 3</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
