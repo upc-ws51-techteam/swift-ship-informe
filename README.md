@@ -187,7 +187,7 @@
 
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 
-**Usuario cliente**
+### **Usuario cliente**
 
 <h4>Entrevista 1</h4>
 
@@ -232,7 +232,7 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 </div>
 </br>
 
-**Usuario otro**
+### **Usuario otro**
 
 <h4>Entrevista 1</h4>
 
