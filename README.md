@@ -186,6 +186,37 @@
 6. ¿Cuáles son los factores más importantes que estarías buscando en el servicio ofrecido de alquiler de barcos?
 
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
+
+<p><strong>Usuario cliente</strong></p>
+
+Entrevista 1
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Donny  | Enriquez |  22  |
+
+<img src="./static/entrevist-donny-enriquez-usuario.png" >
+<p align="left"><strong>URL: </strong> <a href="www.link.com" target="_blank">Entrevista Donny Enriquez</a></p>
+<p align="justify">Resumen entrevista: </p>
+</div>
+
+Entrevista 2
+
+<div align ="center">
+
+| Nombre        | Apellido      | Edad |
+| :------------ | :------------ | :--: |
+| Matthew Andre | Lopez Sanchez |  22  |
+
+<img src="./static/entrevista-matthew-andre-lopez-sanchez-usuario.png" >
+<p align="left"><strong>URL: </strong> <a href="www.link.com" target="_blank">Entrevista Matthew Andre Lopez Sanchez</a></p>
+<p align="justify">
+Resumen entrevista: Resumen de la entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmente en la Dirección General de Operaciones en Salud (DGOS) del Ministerio de Salud (Minsa), donde se encarga del mantenimiento de infraestructuras hospitalarias. Sus plataformas preferidas para obtener información son Instagram y Facebook. Matthew nos informa que ha alquilado un barco en el pasado, siendo la última vez que lo hizo para disfrutar de una jornada de pesca en familia. Sin embargo, se enfrentó a dificultades para encontrar información relevante sobre el alquiler de embarcaciones debido a la escasez de recursos en línea. Utilizó Google, Facebook Marketplace e Instagram para su búsqueda, aunque no tuvo éxito en esta última plataforma.</br></br>Matthew señala que sus criterios principales al buscar un barco eran garantizar que todos los miembros de su familia tuvieran suficiente espacio a bordo y no se sintieran apretados. Además, la ubicación del barco era un factor crucial, ya que a veces se encontraban en puertos lejanos de Lima, lo que complicaba la logística. Por último, aunque el precio del alquiler no era su principal preocupación, consideraba importante que fuera razonable.</br></br>Matthew valora positivamente la idea de nuestra aplicación y considera que sería de gran utilidad tanto para él como para otros usuarios que estén en busca de alquilar o encontrar un barco. Opina que el éxito de la plataforma dependerá de una amplia selección de embarcaciones disponibles, información precisa sobre su disponibilidad, detalles como la capacidad, fecha de fabricación, estado de las revisiones técnicas y el precio. También sugiere que la plataforma incluya un historial de comentarios de personas que hayan alquilado el mismo barco previamente, para brindar una perspectiva adicional a los futuros usuarios.
+</p>
+</div>
+
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
