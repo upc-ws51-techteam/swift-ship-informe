@@ -29,8 +29,6 @@
 <h1 align="center">Swift Ship</h1>
 </br>
 
-<il><h3><a href="#"></a></h3></il>
-
 <ul>
    <li><h1><a href="#capitulo-1">Capítulo I: Introducción</a></h1></li>
    <li><h3><a href="#startup-profile">1.1. Startup Profile</a></h3></li>
@@ -151,8 +149,6 @@
 </br>
 </br>
 </br>
-
-<h3><a id=""></a></h3>
 
 <h1><a id="capitulo-1">Capítulo I: Introducción</a></h1>
 <h3><a id="startup-profile">1.1. Startup Profile</a></h2>
