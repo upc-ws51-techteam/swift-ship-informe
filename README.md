@@ -29,19 +29,10 @@
 <h1 align="center">Swift Ship</h1>
 </br>
 
-<style>
-   ul {
-      list-style-type: none;
-   }
-   a {
-      style="color: white;"
-   }
-</style>
-
 <il><h3><a href="#"></a></h3></il>
 
 <ul>
-   <li><h1><a href="#capitulo-1" >Capítulo I: Introducción</a></h1></li>
+   <li><h1><a href="#capitulo-1">Capítulo I: Introducción</a></h1></li>
    <li><h3><a href="#startup-profile">1.1. Startup Profile</a></h3></li>
    <ul>
       <li><h3><a href="#descripcion-startup">1.1.1.  Descripción de la Startup</a></h3></li>
