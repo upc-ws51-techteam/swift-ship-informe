@@ -20,7 +20,7 @@
 | Alumnos                         |   Codigo   |
 | :------------------------------ | :--------: |
 | Adrian Gonzalo Melgar Takahashi | U201819465 |
-| Lorenzo Sebastian Navarro Robles| U000000002 |
+| Lorenzo Sebastian Navarro Robles| U201713141 |
 |                                 | U000000003 |
 |                                 | U000000004 |
 |                                 | U000000005 |
