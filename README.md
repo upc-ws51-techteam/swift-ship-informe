@@ -497,20 +497,6 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 </p>
 </div>
 
-<h4>Entrevista 3</h4>
-
-<div align ="center">
-
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
-
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
-</div>
-</br>
-
 ### **Usuario otro**
 
 <h4>Entrevista 1</h4>
