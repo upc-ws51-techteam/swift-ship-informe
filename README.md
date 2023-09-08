@@ -305,12 +305,12 @@
          <tr>
             <td style="text-align: center;"><img src="./static/logos/swift-ship-logo.png" width="50" height="50"></td>
             <td style="text-align: center;"><img src="./static/logos/click&board.png" width="50" height="50"></td>
-            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
-            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/alquileres-de-yates-callo.png" width="50" height="50"></td>
+            <td style="text-align: center;">Yates Peru</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Swift Ship es una aplicación intermediaria entre el proveedor y el cliente que permite a este último encontrar rápidamente alquiladores de botes confiables cerca de él. Los proveedores cuentan con un canal en el cual pueden ofrecer sus botes en alquiler a un gran número de clientes, simplificando sus transacciones. Además, podrán visualizar gráficos analíticos.</td>
-            <td></td>
+            <td>Click&Boat es un web app que tiene como objetivo permitir a sus usuarios buscar y alquilar embarcaciones en cualquier parte del mundo.</td>
             <td></td>
             <td></td>
          </tr>
