@@ -331,9 +331,9 @@
             <td style="text-align: center;" rowspan="2">Mercado objetivo</td>
          </tr>
          <tr style="text-align: justify;">
-            <td>Clientes entre los 18 y 65 años en Perú que tengan interés de alquilar un bote. </td>
+            <td>Clientes entre los 18 y 65 años en Perú que tengan interés de alquilar un bote.</td>
             <td>Clientes entre los 18 y 65 años en cualquier parte del mundo que tengan interés de alquilar un bote.</td>
-            <td></td>
+            <td>Clientes entre los 18 y 65 años en Perú que tengan interés de alquilar un bote.</td>
             <td></td>
          </tr>
          <tr>
