@@ -321,7 +321,7 @@
          <tr style="text-align: justify;">
             <td>Ofrece una gran facilidad y rapidez para localizar proveedores de botes confiables.</td>
             <td>Habilidad para alquilar una embarcación en cualquier parte del mundo.</td>
-            <td></td>
+            <td>Gran cantidad de embarcaciones, entre yates y veleros.</td>
             <td></td>
          </tr>
          <tr>
