@@ -149,6 +149,46 @@
 
 </br>
 </br>
+
+# Student Outcome
+
+## ABET – EAC - Student Outcome 3
+
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;">Criterio específico</th>
+            <th style="text-align: center;">Acciones realizadas</th>
+            <th style="text-align: center;">Conclusiones</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td rowspan="6" style="text-align: justify;">Capacidad de comunicarse efectivamente con un rango de audiencias</td>
+         </tr>
+         <tr>
+            <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Hice ...</td>
+            <td rowspan="6" style="text-align: justify;">Conclusion</td>
+         </tr>
+         <tr>
+            <td><strong>Dummy Dummy 1</br>TB1:</strong></br>Hice ... </td>
+         </tr>
+         <tr>
+            <td><strong>Dummy Dummy 2</br>TB1:</strong></br>Hice ...</td>
+         </tr>
+         <tr>
+           <td><strong>Dummy Dummy 3</br>TB1:</strong></br>Hice ...
+           </td>
+         </tr>
+         <tr>
+           <td><strong>Dummy Dummy 4</br>TB1:</strong></br>Hice ... </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
+</br>
 </br>
 
 <h1><a id="capitulo-1">Capítulo I: Introducción</a></h1>
