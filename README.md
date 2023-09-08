@@ -367,7 +367,7 @@
                   <li>Premium:</br>S/. 599 / mes</br>(Max 5 barco)</li>
                   <li>Enterprise:</br>S/. 1999 / mes</br>(Barcos ilimitados)</li>
                </ul></td>
-            <td></td>
+            <td>Comisión de aproximadamente 10%.</td>
             <td></td>
             <td></td>
          </tr>
