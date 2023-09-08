@@ -296,9 +296,9 @@
             </td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="7">
-            Perfil 
-            </td>
+            <td style="text-align: center;" rowspan="6">Perfil</td>
+         </tr>
+         <tr>
             <td style="text-align: center;" rowspan="3">Overview</td>
          </tr>
          <tr>
@@ -314,7 +314,8 @@
             <td></td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="2">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td style="text-align: justify;" rowspan="2">Ventaja competitiva ¿Qué valor ofrece a los clientes?
+            </td>
          </tr>
          <tr style="text-align: justify;">
             <td>Ofrece una gran facilidad y rapidez para localizar proveedores de botes confiables.</td>
@@ -323,10 +324,22 @@
             <td></td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="2">Mercado objetivo </td>
+            <td style="text-align: center;" rowspan="6">Perfil de Marketing</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Mercado objetivo</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Clientes entre los 18 y 65 años que tengan interés de alquilar un bote. </td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Estrategias de marketing</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Promoción a través de diferentes canales digitales, como redes sociales, y/o a través de anuncios disponibles en internet.</td>
             <td></td>
             <td></td>
             <td></td>
