@@ -304,7 +304,7 @@
          </tr>
          <tr>
             <td style="text-align: center;"><img src="./static/logos/swift-ship-logo.png" width="50" height="50"></td>
-            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/click&board.png" width="50" height="50"></td>
             <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
             <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
          </tr>
