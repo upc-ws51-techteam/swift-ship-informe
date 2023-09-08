@@ -6,25 +6,26 @@
 
 <h2 align="center">Ingeniería de Software</h2>
 
+<div align="center">
 <h3>Aplicaciones Open Source - TB1</h3>
-<ul>
-   <li> <strong>Sección:</strong> SW51 </li>
-   <li><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</li>
-   <li><strong>Ciclo:</strong> 2023-02</li>
-   <li><strong>Nombre de la Startup:</strong> TechTeam</li>
-   <li><strong>Nombre del producto:</strong> Swift Ship</li>
-</ul>
+
+**Sección:** SW51 </br>
+**Docente:** Angel Augusto Velasquez Nuñez </br>
+**Ciclo:** 2023-02 </br>
+**Nombre de la Startup:** TechTeam </br>
+**Nombre del producto:** Swift Ship </br>
 
 <h3>Integrantes</h3>
 
-| Alumnos                         |   Codigo   |
-| :------------------------------ | :--------: |
-| Adrian Gonzalo Melgar Takahashi | U201819465 |
-| Lorenzo Sebastian Navarro Robles| U201713141 |
-|                                 | U000000003 |
-|                                 | U000000004 |
-|                                 | U000000005 |
+| Alumnos                          |   Codigo   |
+| :------------------------------- | :--------: |
+| Adrian Gonzalo Melgar Takahashi  | U201819465 |
+| Lorenzo Sebastian Navarro Robles | U201713141 |
+|                                  | U000000003 |
+|                                  | U000000004 |
+|                                  | U000000005 |
 
+</div>
 </br>
 <h1 align="center">Swift Ship</h1>
 </br>
