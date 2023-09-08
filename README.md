@@ -311,7 +311,7 @@
          <tr style="text-align: justify;">
             <td>Swift Ship es una aplicación intermediaria entre el proveedor y el cliente que permite a este último encontrar rápidamente alquiladores de botes confiables cerca de él. Los proveedores cuentan con un canal en el cual pueden ofrecer sus botes en alquiler a un gran número de clientes, simplificando sus transacciones. Además, podrán visualizar gráficos analíticos.</td>
             <td>Click&Boat es una web-app que tiene como objetivo permitir a sus usuarios buscar y alquilar embarcaciones en cualquier parte del mundo.</td>
-            <td></td>
+            <td>Alquiler de Yates Callo es una página web que tiene como objetivo permitir a sus usuarios alquilar cualquiera de las embarcaciones disponibles.</td>
             <td></td>
          </tr>
          <tr>
