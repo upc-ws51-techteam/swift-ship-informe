@@ -345,7 +345,7 @@
             <td></td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="6">Perfil de Producto</td>
+            <td style="text-align: center;" rowspan="7">Perfil de Producto</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Productos & Servicios</td>
@@ -371,10 +371,18 @@
             <td></td>
             <td></td>
          </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Canales de distribución (Web y/o Móvil)</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Aplicación Web</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
       </tbody>
    </table>
 </div>
-
 <h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
