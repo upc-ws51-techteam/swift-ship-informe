@@ -278,7 +278,168 @@
 <h1><a id="capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h3>
 <h3><a id="competidores">2.1. Competidores</a></h3>
 <h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
+
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;" colspan="6">Competitive Analysis Landscape</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style="text-align: center;" rowspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+            <td style="text-align: center;" colspan="5"><strong>Este análisis nos permitirá conocer nuestra posición frente a nuestros competidores Además, podremos identificar nuestras fortalezas y debilidades.</strong></td>
+         </tr>
+         <tr>
+            <td style="text-align: justify;" colspan="5">
+               El objetivo principal del Competitive Analysis Landscape es conocer a nuestros competidores y contrastar nuestra percepción inicial sobre ellos. Queremos entender lo que ofrecen y, lo que es más importante, comprender en qué se fundamentan estas empresas en el mercado al que nuestro startup se está dirigiendo
+            </td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="6">Perfil</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="3">Overview</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="./static/logos/swift-ship-logo.png" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Swift Ship es una aplicación intermediaria entre el proveedor y el cliente que permite a este último encontrar rápidamente alquiladores de botes confiables cerca de él. Los proveedores cuentan con un canal en el cual pueden ofrecer sus botes en alquiler a un gran número de clientes, simplificando sus transacciones. Además, podrán visualizar gráficos analíticos.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: justify;" rowspan="2">Ventaja competitiva ¿Qué valor ofrece a los clientes?
+            </td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Ofrece una gran facilidad y rapidez para localizar proveedores de botes confiables.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="5">Perfil de Marketing</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Mercado objetivo</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Clientes entre los 18 y 65 años que tengan interés de alquilar un bote. </td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Estrategias de Marketing</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Promoción a través de diferentes canales digitales, como redes sociales, y/o a través de anuncios disponibles en internet.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="7">Perfil de Producto</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Productos & Servicios</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Encontrar al proveedor de servicios de alquiler de botes deseado mediante un buscador y filtro de búsqueda avanzada para encontrar a los botes de acuerdo con la necesidad del usuario y podrá revisar las reviews del proveedor.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Precios & Costos</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Gratuito para todo público que desee utilizar la app. Suscripciones para los proveedores del servicio de alquiler de botes.
+               <ul>
+                  <li>Basic:</br>S/. 199 / mes</br>(Max 1 barco)</li>
+                  <li>Premium:</br>S/. 599 / mes</br>(Max 5 barco)</li>
+                  <li>Enterprise:</br>S/. 1999 / mes</br>(Barcos ilimitados)</li>
+               </ul>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Canales de distribución (Web y/o Móvil)</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Aplicación Web</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="10">Análisis SWOT</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. </td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Fortalezas</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Mayor rapidez al momento de encontrar y alquilar un barco.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Debilidades</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Poca experiencia debido a un reciente comienzo en el mercado local.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Oportunidades</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Aumento de potenciales clientes que muestran interés en la renta de embarcaciones.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Amenazas</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Que los posibles competidores establezcan su propia vía de comunicación entre el proveedor y el cliente.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
+
+<p>Tras un análisis exhaustivo de nuestros competidores, hemos identificado áreas de mejora que aún no han sido abordadas. Estas debilidades pueden ser aprovechadas para destacar y mejorar nuestro proyecto frente a la competencia. Las ventajas competitivas que planeamos desarrollar incluyen:
+<ol>
+   <li>Programas de capacitación en atención al cliente</li>
+   <li>Colaboraciones con bloggers de viajes y patrocinio de eventos locales relacionados con la navegación.</li>
+   <li>Actualizaciones de software regulares según las necesidades.</li>
+   <li>Implementación de una sección de retroalimentación para recibir comentarios de los usuarios sobre la interfaz.</li>
+   <li>Establecimiento de un chat para la comunicación con los dueños de botes.</li>
+</ol>
+
+</p>
+
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
 <h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
 
@@ -386,6 +547,15 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 </div>
 
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
+
+Después de llevar a cabo las entrevistas planificadas con el cliente y los alquiladores de barcos, hemos recopilado información valiosa para el proyecto actual.
+
+#### Usuario Cliente
+
+#### Análisis objetivo:
+
+<p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</br></br>En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
+
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
