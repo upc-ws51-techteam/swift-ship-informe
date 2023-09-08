@@ -354,7 +354,7 @@
          <tr style="text-align: justify;">
             <td>Encontrar al proveedor de servicios de alquiler de botes deseado mediante un buscador y filtro de búsqueda avanzada para encontrar a los botes de acuerdo con la necesidad del usuario y podrá revisar las reviews del proveedor.</td>
             <td>Ofrece una plataforma en la que sus usuarios pueden realizar búsquedas avanzadas con múltiples campos para encontrar la embarcación que mejor se les acomode.</td>
-            <td></td>
+            <td>Ofrece una plataforma en la que sus usuarios pueden buscar y escoger la embarcación de su preferencia, contando con una gran cartera de navíos.</td>
             <td></td>
          </tr>
          <tr>
