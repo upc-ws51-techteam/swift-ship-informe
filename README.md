@@ -220,6 +220,52 @@
 <h3><a id="startup-profile">1.1. Startup Profile</a></h2>
 <h3><a id="descripcion-startup">1.1.1. Descripción de la Startup</a></h3>
 <h3><a id="perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</a></h3>
+
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;">Foto</th>
+            <th style="text-align: center;">Miembro</th>
+            <th style="text-align: center;">Descripciónn personal</th>
+            <th style="text-align: center;">Código</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style="text-align: center;"><img src="./static/teams-photos/adrian-melgar.jpeg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Adrian Melgar</td>
+            <td tyle="text-align: justify;">Soy estudiante de Ingeniería de Software en la UPC y, actualmente, me encuentro interesado en temas relacionados con el manejo de datos. Además de mis estudios, disfruto jugando videojuegos y cocinando. Dentro de nuestro grupo, siempre me esfuerzo por brindar apoyo y fomentar una comunicación constante entre los miembros.</td>
+            <td style="text-align: center;">U201819465</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Dummy Dummy</td>
+            <td style="text-align: justify;">c</td>
+            <td style="text-align: center;">d</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Dummy Dummy</td>
+            <td style="text-align: justify;">c</td>
+            <td style="text-align: center;">d</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Dummy Dummy</td>
+            <td style="text-align: justify;">c</td>
+            <td style="text-align: center;">d</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Dummy Dummy</td>
+            <td style="text-align: justify;">c</td>
+            <td style="text-align: center;">d</td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
 <h3><a id="solution-profile">1.2. Solution Profile</a></h3>
 <h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
