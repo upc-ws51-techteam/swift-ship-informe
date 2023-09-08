@@ -342,7 +342,7 @@
          <tr style="text-align: justify;">
             <td>Promoción a través de diferentes canales digitales, como redes sociales, y/o a través de anuncios disponibles en internet.</td>
             <td>Publicidad mediante redes sociales.</td>
-            <td></td>
+            <td>Publicidad por mediación de medios audiovisuales y redes sociales.</td>
             <td></td>
          </tr>
          <tr>
