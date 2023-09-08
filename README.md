@@ -400,7 +400,7 @@
             <td>Mayor rapidez al momento de encontrar y alquilar un barco.</td>
             <td>Cobertura a nivel mundial.</td>
             <td>Buena cartera de barcos y buenas reviews en sus redes sociales.</td>
-            <td></td>
+            <td>Cobertura en múltiples ciudades de Perú y múltiples temáticas para escoger al momento de alquilar un yate.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Debilidades</td>
@@ -409,7 +409,7 @@
             <td>Poca experiencia debido a un reciente comienzo en el mercado local.</td>
             <td>Poca selección de navíos dependiendo de la ubicación.</td>
             <td>La unica forma de alquilar un barco es mediante correo o mensajes por WhatsApp</td>
-            <td></td>
+            <td>La única forma de alquilar un barco es mediante correo, mensajes por WhatsApp o llamada telefónica.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Oportunidades</td>
@@ -418,7 +418,7 @@
             <td>Aumento de potenciales clientes que muestran interés en la renta de embarcaciones.</td>
             <td>Colaborar con organizaciones o arrendadores de barcos para expandir su cartera de embarcaciones.</td>
             <td>Respaldarse de ingenieros de software y especialistas en diseño para una reestructuración de su aplicación web.</td>
-            <td></td>
+            <td>Respaldarse de ingenieros de software y especialistas en diseño para una reestructuración de su aplicación web.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Amenazas</td>
@@ -427,7 +427,7 @@
             <td>Que los posibles competidores establezcan su propia vía de comunicación entre el proveedor y el cliente.</td>
             <td>Alto índice de competitividad entre las aplicaciones de alquiler de barcos locales - un poco complicado destacarnos ante la gran marea de estos que hay en el mercado</td>
             <td>Alto índice de competitividad entre las aplicaciones que ofrecen el servicio de alquiler de barcos, lo que dificulta destacar en el mercado.</td>
-            <td></td>
+            <td>Alto índice de competitividad entre las aplicaciones que ofrecen el servicio de alquiler de barcos, lo que dificulta destacar en el mercado.</td>
          </tr>
       </tbody>
    </table>
