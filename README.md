@@ -282,18 +282,33 @@
    <table>
       <thead>
          <tr>
-            <th style="text-align: center;" colspan="4">Competitive Analysis Landscape</th>
+            <th style="text-align: center;" colspan="6">Competitive Analysis Landscape</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td style="text-align: center;" rowspan="2" colspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-            <td style="text-align: center;"><strong>Este análisis nos permitirá conocer nuestra posición frente a nuestros competidores Además, podremos identificar nuestras fortalezas y debilidades.</strong></td>
+            <td style="text-align: center;" rowspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+            <td style="text-align: center;" colspan="5"><strong>Este análisis nos permitirá conocer nuestra posición frente a nuestros competidores Además, podremos identificar nuestras fortalezas y debilidades.</strong></td>
          </tr>
          <tr>
-            <td style="text-align: justify;" colspan="3">
+            <td style="text-align: justify;" colspan="5">
                El objetivo principal del Competitive Analysis Landscape es conocer a nuestros competidores y contrastar nuestra percepción inicial sobre ellos. Queremos entender lo que ofrecen y, lo que es más importante, comprender en qué se fundamentan estas empresas en el mercado al que nuestro startup se está dirigiendo
             </td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="4">
+            Perfil 
+            </td>
+            <td style="text-align: center;" rowspan="4">Overview</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="./static/logos/swift-ship-logo.png" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+         </tr>
+         <tr>
+            <td style="text-align: justify;">Swift Ship es una aplicación intermediaria entre el proveedor y el cliente que permite a este último encontrar rápidamente alquiladores de botes confiables cerca de él. Los proveedores cuentan con un canal en el cual pueden ofrecer sus botes en alquiler a un gran número de clientes, simplificando sus transacciones. Además, podrán visualizar gráficos analíticos.<td>
          </tr>
       </tbody>
    </table>
