@@ -380,6 +380,48 @@
             <td></td>
             <td></td>
          </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="10">Análisis SWOT</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. </td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Fortalezas</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Mayor rapidez al momento de encontrar y alquilar un barco.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Debilidades</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Poca experiencia debido a un reciente comienzo en el mercado local.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Oportunidades</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Aumento de potenciales clientes que muestran interés en la renta de embarcaciones.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Amenazas</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Que los posibles competidores establezcan su propia vía de comunicación entre el proveedor y el cliente.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
       </tbody>
    </table>
 </div>
