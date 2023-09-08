@@ -251,7 +251,7 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
             <td style="text-align: center;">U201819465</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/Sebastian.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/sebastian.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Sebastian Bustinza</td>
             <td style="text-align: justify;">Mi nombre es Diego Acuña Gomez, resido en Lima y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente 7mo ciclo. Considero que tengo habilidades en programación con C++, Javascript y Python. Me comprometo a ayudar al trabajo y desarrollo de nuestro trabajo.</td>
             <td style="text-align: center;">U202123362</td>
