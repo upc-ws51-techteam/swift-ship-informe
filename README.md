@@ -324,7 +324,7 @@
             <td></td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="6">Perfil de Marketing</td>
+            <td style="text-align: center;" rowspan="5">Perfil de Marketing</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Mercado objetivo</td>
@@ -336,10 +336,22 @@
             <td></td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="2">Estrategias de marketing</td>
+            <td style="text-align: center;" rowspan="2">Estrategias de Marketing</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Promoción a través de diferentes canales digitales, como redes sociales, y/o a través de anuncios disponibles en internet.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="6">Perfil de Producto</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Productos & Servicios</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Encontrar al proveedor de servicios de alquiler de botes deseado mediante un buscador y filtro de búsqueda avanzada para encontrar a los botes de acuerdo con la necesidad del usuario y podrá revisar las reviews del proveedor.</td>
             <td></td>
             <td></td>
             <td></td>
