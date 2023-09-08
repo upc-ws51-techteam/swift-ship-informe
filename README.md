@@ -322,7 +322,7 @@
             <td>Ofrece una gran facilidad y rapidez para localizar proveedores de botes confiables.</td>
             <td>Habilidad para alquilar una embarcación en cualquier parte del mundo.</td>
             <td>Gran cantidad de embarcaciones, entre yates y veleros.</td>
-            <td></td>
+            <td>Amplia cartera de embarcaciones con disponibilidad en Lima, Callao, Paracas, Pucusana y Máncora.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="5">Perfil de Marketing</td>
