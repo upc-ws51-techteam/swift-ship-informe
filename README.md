@@ -369,7 +369,14 @@
                </ul></td>
             <td>Comisión de aproximadamente 10%.</td>
             <td>Comisión de aproximadamente 15% y perks adicionales como snacks y paseos</td>
-            <td></td>
+            <td>Comisión de aproximadamente 15% y perks adicionales como:
+            <ul>
+               <li>Paseos y cenas romanticas en yate</li>
+               <li>Alquiler yate para fiestas</li>
+               <li>Despedida de soltera en yate</li>
+               <li>Tour grupal en yate</li>
+               <li>Paseo familiar en yate</li>
+            </ul></td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Canales de distribución (Web y/o Móvil)</td>
