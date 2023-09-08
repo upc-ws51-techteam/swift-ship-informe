@@ -233,31 +233,31 @@
       </thead>
       <tbody>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Dummy Dummy</td>
             <td tyle="text-align: justify;">c</td>
             <td style="text-align: center;">d</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Dummy Dummy</td>
             <td style="text-align: justify;">c</td>
             <td style="text-align: center;">d</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Dummy Dummy</td>
             <td style="text-align: justify;">c</td>
             <td style="text-align: center;">d</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Dummy Dummy</td>
             <td style="text-align: justify;">c</td>
             <td style="text-align: center;">d</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Dummy Dummy</td>
             <td style="text-align: justify;">c</td>
             <td style="text-align: center;">d</td>
