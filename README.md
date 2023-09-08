@@ -385,7 +385,7 @@
             <td>Aplicación Web</td>
             <td>Aplicación Web</td>
             <td>Aplicación Web</td>
-            <td></td>
+            <td>Aplicación Web</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="10">Análisis SWOT</td>
