@@ -391,7 +391,7 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Mayor rapidez al momento de encontrar y alquilar un barco.</td>
-            <td></td>
+            <td>Cobertura a nivel mundial.</td>
             <td></td>
             <td></td>
          </tr>
@@ -400,7 +400,7 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Poca experiencia debido a un reciente comienzo en el mercado local.</td>
-            <td></td>
+            <td>Poca selección de navíos dependiendo de la ubicación.</td>
             <td></td>
             <td></td>
          </tr>
@@ -409,7 +409,7 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Aumento de potenciales clientes que muestran interés en la renta de embarcaciones.</td>
-            <td></td>
+            <td>Colaborar con organizaciones o arrendadores de barcos para expandir su cartera de embarcaciones.</td>
             <td></td>
             <td></td>
          </tr>
@@ -418,7 +418,7 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Que los posibles competidores establezcan su propia vía de comunicación entre el proveedor y el cliente.</td>
-            <td></td>
+            <td>Alto índice de competitividad entre las aplicaciones de alquiler de barcos locales - un poco complicado destacarnos ante la gran marea de estos que hay en el mercado</td>
             <td></td>
             <td></td>
          </tr>
