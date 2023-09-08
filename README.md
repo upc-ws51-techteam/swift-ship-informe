@@ -1,5 +1,5 @@
 <p align ="center">
-   <img src="./static/UPC_logo.png" >
+   <img src="./static/logos/UPC_logo.png" >
 </p>
 
 <h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
@@ -304,15 +304,15 @@
          </tr>
          <tr>
             <td style="text-align: center;"><img src="./static/logos/swift-ship-logo.png" width="50" height="50"></td>
-            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
-            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
-            <td style="text-align: center;"><img src="./static/logos/" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/click&board.svg" width="50" height="50"></td>
+            <td style="text-align: center;"><img src="./static/logos/alquileres-de-yates-callo.png" width="50" height="50"></td>
+            <td style="text-align: center;">Yates Peru</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Swift Ship es una aplicación intermediaria entre el proveedor y el cliente que permite a este último encontrar rápidamente alquiladores de botes confiables cerca de él. Los proveedores cuentan con un canal en el cual pueden ofrecer sus botes en alquiler a un gran número de clientes, simplificando sus transacciones. Además, podrán visualizar gráficos analíticos.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Click&Boat es una web-app que tiene como objetivo permitir a sus usuarios buscar y alquilar embarcaciones en cualquier parte del mundo.</td>
+            <td>Alquiler de Yates Callo es una página web que tiene como objetivo permitir a sus usuarios alquilar cualquiera de las embarcaciones disponibles.</td>
+            <td>Yates Perú es una página web que busca ayudar a sus usuarios a alquilar cualquiera de las embarcaciones disponibles en su catálogo.</td>
          </tr>
          <tr>
             <td style="text-align: justify;" rowspan="2">Ventaja competitiva ¿Qué valor ofrece a los clientes?
@@ -320,9 +320,9 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Ofrece una gran facilidad y rapidez para localizar proveedores de botes confiables.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Habilidad para alquilar una embarcación en cualquier parte del mundo.</td>
+            <td>Gran cantidad de embarcaciones, entre yates y veleros.</td>
+            <td>Amplia cartera de embarcaciones con disponibilidad en Lima, Callao, Paracas, Pucusana y Máncora.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="5">Perfil de Marketing</td>
@@ -331,19 +331,19 @@
             <td style="text-align: center;" rowspan="2">Mercado objetivo</td>
          </tr>
          <tr style="text-align: justify;">
-            <td>Clientes entre los 18 y 65 años que tengan interés de alquilar un bote. </td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Clientes entre los 18 y 65 años en Perú que tengan interés de alquilar un bote.</td>
+            <td>Clientes entre los 18 y 65 años en cualquier parte del mundo que tengan interés de alquilar un bote.</td>
+            <td>Clientes entre los 18 y 65 años en Perú que tengan interés de alquilar un bote.</td>
+            <td>Clientes entre los 18 y 65 años en Perú que tengan interés de alquilar un bote.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Estrategias de Marketing</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Promoción a través de diferentes canales digitales, como redes sociales, y/o a través de anuncios disponibles en internet.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Publicidad mediante redes sociales.</td>
+            <td>Publicidad por mediación de medios audiovisuales y redes sociales.</td>
+            <td>Promoción a través de las redes sociales, así como en plataformas de transmisión y video en línea.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="7">Perfil de Producto</td>
@@ -353,9 +353,9 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Encontrar al proveedor de servicios de alquiler de botes deseado mediante un buscador y filtro de búsqueda avanzada para encontrar a los botes de acuerdo con la necesidad del usuario y podrá revisar las reviews del proveedor.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Ofrece una plataforma en la que sus usuarios pueden realizar búsquedas avanzadas con múltiples campos para encontrar la embarcación que mejor se les acomode.</td>
+            <td>Ofrece una plataforma en la que sus usuarios pueden buscar y escoger la embarcación de su preferencia, contando con una gran cartera de navíos.</td>
+            <td>Ofrece el servicio de alquiler de navíos y paseos en yate en distintas ciudades del Perú.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Precios & Costos</td>
@@ -366,20 +366,26 @@
                   <li>Basic:</br>S/. 199 / mes</br>(Max 1 barco)</li>
                   <li>Premium:</br>S/. 599 / mes</br>(Max 5 barco)</li>
                   <li>Enterprise:</br>S/. 1999 / mes</br>(Barcos ilimitados)</li>
-               </ul>
-            </td>
-            <td></td>
-            <td></td>
-            <td></td>
+               </ul></td>
+            <td>Comisión de aproximadamente 10%.</td>
+            <td>Comisión de aproximadamente 15% y perks adicionales como snacks y paseos</td>
+            <td>Comisión de aproximadamente 15% y perks adicionales como:
+            <ul>
+               <li>Paseos y cenas romanticas en yate</li>
+               <li>Alquiler yate para fiestas</li>
+               <li>Despedida de soltera en yate</li>
+               <li>Tour grupal en yate</li>
+               <li>Paseo familiar en yate</li>
+            </ul></td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Canales de distribución (Web y/o Móvil)</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Aplicación Web</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Aplicación Web</td>
+            <td>Aplicación Web</td>
+            <td>Aplicación Web</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="10">Análisis SWOT</td>
@@ -392,36 +398,36 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Mayor rapidez al momento de encontrar y alquilar un barco.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Cobertura a nivel mundial.</td>
+            <td>Buena cartera de barcos y buenas reviews en sus redes sociales.</td>
+            <td>Cobertura en múltiples ciudades de Perú y múltiples temáticas para escoger al momento de alquilar un yate.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Debilidades</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Poca experiencia debido a un reciente comienzo en el mercado local.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Poca selección de navíos dependiendo de la ubicación.</td>
+            <td>La unica forma de alquilar un barco es mediante correo o mensajes por WhatsApp</td>
+            <td>La única forma de alquilar un barco es mediante correo, mensajes por WhatsApp o llamada telefónica.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Oportunidades</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Aumento de potenciales clientes que muestran interés en la renta de embarcaciones.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Colaborar con organizaciones o arrendadores de barcos para expandir su cartera de embarcaciones.</td>
+            <td>Respaldarse de ingenieros de software y especialistas en diseño para una reestructuración de su aplicación web.</td>
+            <td>Respaldarse de ingenieros de software y especialistas en diseño para una reestructuración de su aplicación web.</td>
          </tr>
          <tr>
             <td style="text-align: center;" rowspan="2">Amenazas</td>
          </tr>
          <tr style="text-align: justify;">
             <td>Que los posibles competidores establezcan su propia vía de comunicación entre el proveedor y el cliente.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Alto índice de competitividad entre las aplicaciones de alquiler de barcos locales - un poco complicado destacarnos ante la gran marea de estos que hay en el mercado</td>
+            <td>Alto índice de competitividad entre las aplicaciones que ofrecen el servicio de alquiler de barcos, lo que dificulta destacar en el mercado.</td>
+            <td>Alto índice de competitividad entre las aplicaciones que ofrecen el servicio de alquiler de barcos, lo que dificulta destacar en el mercado.</td>
          </tr>
       </tbody>
    </table>
@@ -490,20 +496,6 @@
 Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmente en la Dirección General de Operaciones en Salud (DGOS) del Ministerio de Salud (Minsa), donde se encarga del mantenimiento de infraestructuras hospitalarias. Sus plataformas preferidas para obtener información son Instagram y Facebook. Matthew nos informa que ha alquilado un barco en el pasado, siendo la última vez que lo hizo para disfrutar de una jornada de pesca en familia. Sin embargo, se enfrentó a dificultades para encontrar información relevante sobre el alquiler de embarcaciones debido a la escasez de recursos en línea. Utilizó Google, Facebook Marketplace e Instagram para su búsqueda, aunque no tuvo éxito en esta última plataforma.</br></br>Matthew señala que sus criterios principales al buscar un barco eran garantizar que todos los miembros de su familia tuvieran suficiente espacio a bordo y no se sintieran apretados. Además, la ubicación del barco era un factor crucial, ya que a veces se encontraban en puertos lejanos de Lima, lo que complicaba la logística. Por último, aunque el precio del alquiler no era su principal preocupación, consideraba importante que fuera razonable.</br></br>Matthew valora positivamente la idea de nuestra aplicación y considera que sería de gran utilidad tanto para él como para otros usuarios que estén en busca de alquilar o encontrar un barco. Opina que el éxito de la plataforma dependerá de una amplia selección de embarcaciones disponibles, información precisa sobre su disponibilidad, detalles como la capacidad, fecha de fabricación, estado de las revisiones técnicas y el precio. También sugiere que la plataforma incluya un historial de comentarios de personas que hayan alquilado el mismo barco previamente, para brindar una perspectiva adicional a los futuros usuarios.
 </p>
 </div>
-
-<h4>Entrevista 3</h4>
-
-<div align ="center">
-
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
-
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
-</div>
-</br>
 
 ### **Usuario otro**
 
