@@ -296,7 +296,7 @@
             </td>
          </tr>
          <tr>
-            <td style="text-align: center;" rowspan="6">
+            <td style="text-align: center;" rowspan="7">
             Perfil 
             </td>
             <td style="text-align: center;" rowspan="3">Overview</td>
@@ -318,6 +318,15 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Ofrece una gran facilidad y rapidez para localizar proveedores de botes confiables.</td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Mercado objetivo </td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Clientes entre los 18 y 65 años que tengan interés de alquilar un bote. </td>
             <td></td>
             <td></td>
             <td></td>
