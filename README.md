@@ -368,7 +368,7 @@
                   <li>Enterprise:</br>S/. 1999 / mes</br>(Barcos ilimitados)</li>
                </ul></td>
             <td>Comisión de aproximadamente 10%.</td>
-            <td></td>
+            <td>Comisión de aproximadamente 15% y perks adicionales como snacks y paseos</td>
             <td></td>
          </tr>
          <tr>
