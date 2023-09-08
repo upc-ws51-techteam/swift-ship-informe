@@ -376,7 +376,7 @@
          </tr>
          <tr style="text-align: justify;">
             <td>Aplicación Web</td>
-            <td></td>
+            <td>Aplicación Web</td>
             <td></td>
             <td></td>
          </tr>
