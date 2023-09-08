@@ -27,6 +27,31 @@
 
 </div>
 </br>
+
+<h1 align="center">Registro de versiones</h1>
+</br>
+
+<div align="center">
+   <table>
+      <thead >
+         <tr>
+            <th>Versión</th>
+            <th>Fecha</th>
+            <th>Autor</th>
+            <th>Descripción de modificaciones</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
 <h1 align="center">Swift Ship</h1>
 </br>
 
