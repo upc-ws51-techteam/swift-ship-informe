@@ -233,10 +233,10 @@
       </thead>
       <tbody>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Dummy Dummy</td>
-            <td tyle="text-align: justify;">c</td>
-            <td style="text-align: center;">d</td>
+            <td style="text-align: center;"><img src="./static/teams-photos/adrian-melgar.jpeg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Adrian Melgar</td>
+            <td tyle="text-align: justify;">Soy estudiante de Ingeniería de Software en la UPC y, actualmente, me encuentro interesado en temas relacionados con el manejo de datos. Además de mis estudios, disfruto jugando videojuegos y cocinando. Dentro de nuestro grupo, siempre me esfuerzo por brindar apoyo y fomentar una comunicación constante entre los miembros.</td>
+            <td style="text-align: center;">U201819465</td>
          </tr>
          <tr>
             <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
