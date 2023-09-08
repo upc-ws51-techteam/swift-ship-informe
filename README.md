@@ -277,6 +277,28 @@
 
 <h1><a id="capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h3>
 <h3><a id="competidores">2.1. Competidores</a></h3>
+
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;" colspan="4">Competitive Analysis Landscape</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style="text-align: center;" rowspan="2" colspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+            <td style="text-align: center;"><strong>Este análisis nos permitirá conocer nuestra posición frente a nuestros competidores Además, podremos identificar nuestras fortalezas y debilidades.</strong></td>
+         </tr>
+         <tr>
+            <td style="text-align: justify;" colspan="3">
+               El objetivo principal del Competitive Analysis Landscape es conocer a nuestros competidores y contrastar nuestra percepción inicial sobre ellos. Queremos entender lo que ofrecen y, lo que es más importante, comprender en qué se fundamentan estas empresas en el mercado al que nuestro startup se está dirigiendo
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
 <h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
