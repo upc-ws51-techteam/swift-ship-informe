@@ -428,6 +428,18 @@
 </div>
 
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
+
+<p>Tras un análisis exhaustivo de nuestros competidores, hemos identificado áreas de mejora que aún no han sido abordadas. Estas debilidades pueden ser aprovechadas para destacar y mejorar nuestro proyecto frente a la competencia. Las ventajas competitivas que planeamos desarrollar incluyen:
+<ol>
+   <li>Programas de capacitación en atención al cliente</li>
+   <li>Colaboraciones con bloggers de viajes y patrocinio de eventos locales relacionados con la navegación.</li>
+   <li>Actualizaciones de software regulares según las necesidades.</li>
+   <li>Implementación de una sección de retroalimentación para recibir comentarios de los usuarios sobre la interfaz.</li>
+   <li>Establecimiento de un chat para la comunicación con los dueños de botes.</li>
+</ol>
+
+</p>
+
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
 <h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
 
