@@ -547,6 +547,15 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 </div>
 
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
+
+Después de llevar a cabo las entrevistas planificadas con el cliente y los alquiladores de barcos, hemos recopilado información valiosa para el proyecto actual.
+
+#### Usuario Cliente
+
+#### Análisis objetivo:
+
+<p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</br></br>En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
+
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
