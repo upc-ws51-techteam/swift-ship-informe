@@ -6,7 +6,7 @@
 
 <h2 align="center">Ingeniería de Software</h2>
 
-<div >
+<div align="center">
 <h3>Aplicaciones Open Source - TB1</h3>
 
 **Sección:** SW51 </br>
