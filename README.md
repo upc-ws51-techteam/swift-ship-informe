@@ -277,6 +277,7 @@
 
 <h1><a id="capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h3>
 <h3><a id="competidores">2.1. Competidores</a></h3>
+<h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
 
 <div align="center">
    <table>
@@ -425,7 +426,7 @@
       </tbody>
    </table>
 </div>
-<h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
+
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
 <h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
