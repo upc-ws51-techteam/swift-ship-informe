@@ -356,6 +356,21 @@
             <td></td>
             <td></td>
          </tr>
+         <tr>
+            <td style="text-align: center;" rowspan="2">Precios & Costos</td>
+         </tr>
+         <tr style="text-align: justify;">
+            <td>Gratuito para todo público que desee utilizar la app. Suscripciones para los proveedores del servicio de alquiler de botes.
+               <ul>
+                  <li>Basic:</br>S/. 199 / mes</br>(Max 1 barco)</li>
+                  <li>Premium:</br>S/. 599 / mes</br>(Max 5 barco)</li>
+                  <li>Enterprise:</br>S/. 1999 / mes</br>(Barcos ilimitados)</li>
+               </ul>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+         </tr>
       </tbody>
    </table>
 </div>
