@@ -945,7 +945,28 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
+
+Las Landing Pages son herramientas destinadas a convertir a los visitantes en posibles clientes mediante diversas estrategias, como mensajes atractivos y detalles sobre tu producto, entre otros recursos. Por esta razón, optamos por emplear esta herramienta y creamos una versión preliminar tanto para dispositivos móviles como para computadoras.
+
+En la versión móvil, ofrecemos el mismo contenido que en la versión de escritorio, pero hemos rediseñado la presentación para adaptarla al tamaño de los dispositivos móviles. Además, hemos incorporado un botón que facilita la navegación del usuario en la Landing Page, garantizando una experiencia más cómoda y visualmente atractiva.
+
+Para la versión de escritorio, hemos diseñado ventanas con opciones detalladas que mejoran la comprensión del usuario. Cada opción del sitio web se describe claramente para evitar cualquier confusión. La barra de navegación se mantiene en una posición estática en todo momento, lo que asegura su disponibilidad constante para el usuario y le permite explorar la Landing Page de manera cómoda.
+
 <h3><a id="landing-page-wireframe">4.3.1. Landing Page Wireframe</a></h3>
+
+En esta sección, presentaremos los fundamentos para diseñar el sitio web de nuestro software. Estos fundamentos nos ayudarán a brindar una comprensión más clara del contenido que la plataforma y la versión móvil mostrarán. El Landing Page se ajustará al tamaño de las pantallas de cada dispositivo, asegurando que la información esté centrada y sea fácilmente visible para el usuario. Nuestro objetivo es proporcionar información precisa sin abrumar al usuario, y para lograrlo, hemos incorporado una barra de navegación estática que facilitará la exploración de la Landing Page.
+
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 1swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 2swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 3swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 4swift-ship-wireframes.jpg" align="center">
+</br></br>
+
+<p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
+
 <h3><a id="landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3>
 <h3><a id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3>
 <h3><a id="web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3>
