@@ -942,6 +942,9 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
+
+En el siguiente apartado, se expondrán los etiquetas SEO y etiquetas meta empleados en la Landing Page con la finalidad de mejorar su presencia en los resultados de búsqueda de los motores de búsqueda. Página de Aterrizaje:
+
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
