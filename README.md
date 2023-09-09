@@ -22,7 +22,7 @@
 | Adrian Gonzalo Melgar Takahashi  | U201819465 |
 | Lorenzo Sebastian Navarro Robles | U201713141 |
 | Sebastian Alonso Bustinza Muñoz  | U202123362 |
-| Gianfranco Luna Morales                                 | U201824343 |
+| Gianfranco Luna Morales          | U201824343 |
 
 </div>
 </br>
@@ -642,6 +642,14 @@ En la actualidad, el alquiler de embarcaciones se ha convertido en una opción d
 5. ¿Consideras que una aplicación, ya sea web o móvil, para el servicio de alquiler de barcos es mejor que contactar con el proveedor de manera tradicional?
 6. ¿Cuáles son los factores más importantes que estarías buscando en el servicio ofrecido de alquiler de barcos?
 
+**Preguntas Específicas para Intermediarios:**
+
+1. ¿Cuál es el proceso de contrato al recibir la solicitud de alquiler de barcos?
+2. ¿En qué área se desempeña y qué actividades realiza?
+3. ¿Cuál es su criterio de busqueda de empresas o dueños de barcos? ¿Existe más beneficios trabajanado con empresas o con dueños independientes?
+4. ¿Cuál es el procedimiento ante algún accidente o evento ambiental?
+5. ¿Consideras factible una aplicación donde puedas encontrar tanto clientes mineras y empresas de alquiler de barcos?
+
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 
 ### **Usuario cliente**
@@ -681,13 +689,13 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| Jessica | Morales  |  48  |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+<img src="./static/interviews/entrevista-Jessica-Morales.png" >
+<p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Jessica Morales</a></p>
+<p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
 </div>
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 
@@ -884,13 +892,13 @@ Tono de comunicación y lenguaje aplicado
 Color Primario: El color azul suele relacionarse con elementos de la naturaleza, tales como el agua y el aire. Además, inspira sentimientos de amistad, lealtad, seguridad y confianza.
 </br>
 </br>
-Color Secundario: El verde, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad. 
+Color Secundario: El verde, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad.
 </br>
 </br>
-Blanco: Representa limpieza y claridad. 
+Blanco: Representa limpieza y claridad.
 </br>
-</br>
-Negro: Color serio y elegante. El lenguaje a utilizar será serio, formal, respetuoso junto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
+</br>Desktop Web Browseto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
+
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
 </br>
@@ -906,15 +914,56 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
+
+En el siguiente apartado, se expondrán los etiquetas SEO y etiquetas meta empleados en la Landing Page con la finalidad de mejorar su presencia en los resultados de búsqueda de los motores de búsqueda. Página de Aterrizaje:
+
+<img src="static/SEO.png" align="center">
+
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
+
+Las Landing Pages son herramientas destinadas a convertir a los visitantes en posibles clientes mediante diversas estrategias, como mensajes atractivos y detalles sobre tu producto, entre otros recursos. Por esta razón, optamos por emplear esta herramienta y creamos una versión preliminar tanto para dispositivos móviles como para computadoras.
+
+En la versión móvil, ofrecemos el mismo contenido que en la versión de escritorio, pero hemos rediseñado la presentación para adaptarla al tamaño de los dispositivos móviles. Además, hemos incorporado un botón que facilita la navegación del usuario en la Landing Page, garantizando una experiencia más Scómoda y visualmente atractiva.
+
+Para la versión de escritorio, hemos diseñado ventanas con opciones detalladas que mejoran la comprensión del usuario. Cada opción del sitio web se describe claramente para evitar cualquier confusión. La barra de navegación se mantiene en una posición estática en todo momento, lo que asegura su disponibilidad constante para el usuario y le permite explorar la Landing Page de manera cómoda.
+
 <h3><a id="landing-page-wireframe">4.3.1. Landing Page Wireframe</a></h3>
+
+En esta sección, presentaremos los fundamentos para diseñar el sitio web de nuestro software. Estos fundamentos nos ayudarán a brindar una comprensión más clara del contenido que la plataforma y la versión móvil mostrarán. El Landing Page se ajustará al tamaño de las pantallas de cada dispositivo, asegurando que la información esté centrada y sea fácilmente visible para el usuario. Nuestro objetivo es proporcionar información precisa sin abrumar al usuario, y para lograrlo, hemos incorporado una barra de navegación estática que facilitará la exploración de la Landing Page.
+
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 1swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 2swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 3swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 4swift-ship-wireframes.jpg" align="center">
+</br></br>
+
+<p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
+
 <h3><a id="landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3>
 <h3><a id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3>
 <h3><a id="web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3>
 <h3><a id="web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></h3>
 <h3><a id="web-applications-mock-ups">4.4.2. Web Applications Mock-ups</a></h3>
+
+Se muestra una vista previa de lo que constituirá nuestro sitio web, describiendo en detalle su contenido, aplicando los colores correspondientes según nuestra guía de estilos y complementando la información con imágenes coherentes. Esto se hace con el objetivo de brindar al usuario una comprensión más nítida de las ideas que estamos tratando de comunicar.
+
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 1swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 2swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 3swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 4swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 5swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
+
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
 <h3><a id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3>
