@@ -885,7 +885,10 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
 <h3><a id="information-architecture">4.2. Information Architecture</a></h3>
+La arquitectura de información que se tiene planeado implementar en “Swift-Ship”, permitirá a los usuarios encontrar lo que desean de la manera más simple y dinámica posible. Entre nuestras propuestas tenemos: contar con un sistema de búsquedas en el menú principal. En este apartado, los usuarios tendrán la posibilidad de consultar y encontrar empresas de barcos que sean de su interés, así como también escoger el tipo de barco que deseen por medio de un filtro, así como la empresa a la que esta afilidad. Por otro lado, el usuario podrá recibir ofertas y recomendaciones en base a sus intereses y la época del año, tales como actividades que sean parecidas a sus anteriores alquileres, empresas que ofrezcan barcos similares, entre otros. Creemos que, de esta manera, nuestros clientes podrán interesarse en utilizar la aplicación y ser consumidores activos.
+
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
+El sistema de organización que se planea implementar para “Swift-Ship”, les permitirá a los usuarios visualizar la interfaz de forma atractiva, para que sea fácil de usar. Dicho sistema de organización poseerá temas específicos y recomendaciones en base a sus intereses seleccionados en el registro, el diseño está hecho de tal manera que el cliente no se pierda. Se realizará el uso de la organización secuencial (step-by-step to accomplish) o matricial.
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
@@ -924,3 +927,4 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 <h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
 <h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
 <h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
+
