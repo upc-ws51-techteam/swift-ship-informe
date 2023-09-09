@@ -957,6 +957,15 @@ Para la versión de escritorio, hemos diseñado ventanas con opciones detalladas
 
 En esta sección, presentaremos los fundamentos para diseñar el sitio web de nuestro software. Estos fundamentos nos ayudarán a brindar una comprensión más clara del contenido que la plataforma y la versión móvil mostrarán. El Landing Page se ajustará al tamaño de las pantallas de cada dispositivo, asegurando que la información esté centrada y sea fácilmente visible para el usuario. Nuestro objetivo es proporcionar información precisa sin abrumar al usuario, y para lograrlo, hemos incorporado una barra de navegación estática que facilitará la exploración de la Landing Page.
 
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 1swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 2swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 3swift-ship-wireframes.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/wireframes-landing-page/Desktop - 4swift-ship-wireframes.jpg" align="center">
+</br></br>
+
 <h3><a id="landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3>
 <h3><a id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3>
 <h3><a id="web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3>
