@@ -894,7 +894,12 @@ Los datos se van a representar en botones con imágenes y frases cortas de tal m
 
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
+Para la búsqueda de áreas, en cada página habrá un buscador libre y una herramienta de filtros por categorías para encontrar los barcos con una categoría asignada por los moderadores de la app.
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
+Si el usuario inicia sesión con su cuenta, llegará a la página principal de la app, donde se visualizará sus datos importantes, en la parte inferior se encontrará un panel de navegación con las opciones principales como “Perfil”, “Categorías”, “Personalizaciones”, “Configuración”. Cuando el usuario decida ir a cualquier opción le aparecerá una nueva ventana con el título de la opción previamente seleccionada con otras posibilidades.
+Por ejemplo:
+Abrir “Categorías” y seleccionar “Transporte”, al marcar esta opción lo llevará a una pantalla donde podrá seleccionar el monto y el material a transportar, sean minerales, propiedades, etc.
+
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
 <h3><a id="landing-page-wireframe">4.3.1. Landing Page Wireframe</a></h3>
 <h3><a id="landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3>
