@@ -201,14 +201,13 @@
             <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo del Capítulo I, As-is scenario mapping, el desarrollo del ppt, style guidelines, entre otras cosas junto con mis compañeros.</td>
          </tr>
          <tr>
-            <td><strong>Dummy Dummy 2</br>TB1:</strong></br>Hice ...</td>
+            <td><strong>Gianfranco Luna Morales</br>TB1:</strong></br>Entrevista
+Diseño de entrevistas
+Information Architecture</td>
          </tr>
          <tr>
-           <td><strong>Dummy Dummy 3</br>TB1:</strong></br>Hice ...
+           <td><strong>Lorenzo Sebastian Navarro Robles</br>TB1:</strong></br>Puntos del cap 3
            </td>
-         </tr>
-         <tr>
-           <td><strong>Dummy Dummy 4</br>TB1:</strong></br>Hice ... </td>
          </tr>
       </tbody>
    </table>
