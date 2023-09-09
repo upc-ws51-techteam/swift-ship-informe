@@ -686,8 +686,8 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 | :-----  | :------- | :--: |
 | Jessica | Morales  |  48  |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista a Jessica Morales</a></p>
+<img src="./static/interviews/entrevista-Jessica-Morales.png" >
+<p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Jessica Morales</a></p>
 <p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
 </div>
 
