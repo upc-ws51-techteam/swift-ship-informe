@@ -954,7 +954,17 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 
 Se muestra una vista previa de lo que constituirá nuestro sitio web, describiendo en detalle su contenido, aplicando los colores correspondientes según nuestra guía de estilos y complementando la información con imágenes coherentes. Esto se hace con el objetivo de brindar al usuario una comprensión más nítida de las ideas que estamos tratando de comunicar.
 
-<img src="">
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 1swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 2swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 3swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 4swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 5swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
 
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
