@@ -550,6 +550,13 @@ Después de llevar a cabo las entrevistas planificadas con el cliente y los alqu
 
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
+
+#### Cliente
+
+<div align="center">
+   <img src="static/needfinding/User-Persona-Cliente-Matthew-Lopez.png">
+</div>
+
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
