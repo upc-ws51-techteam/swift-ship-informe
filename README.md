@@ -258,7 +258,7 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
             <td style="text-align: center;">U202123362</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Gianfranco Luna</td>
             <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
             <td style="text-align: center;">U201824343</td>
