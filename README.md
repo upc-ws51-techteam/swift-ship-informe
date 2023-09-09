@@ -890,6 +890,8 @@ La arquitectura de información que se tiene planeado implementar en “Swift-Sh
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
 El sistema de organización que se planea implementar para “Swift-Ship”, les permitirá a los usuarios visualizar la interfaz de forma atractiva, para que sea fácil de usar. Dicho sistema de organización poseerá temas específicos y recomendaciones en base a sus intereses seleccionados en el registro, el diseño está hecho de tal manera que el cliente no se pierda. Se realizará el uso de la organización secuencial (step-by-step to accomplish) o matricial.
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
+Los datos se van a representar en botones con imágenes y frases cortas de tal manera que a los usuarios les sea sencillo a la hora de cambiar sección y aumentando su tiempo en la app. Esto también ayudará al usuario a navegar de manera intuitiva ya que los colores seleccionados ayudarían a enfocar la percepción del usuario.
+
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
