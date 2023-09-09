@@ -263,9 +263,9 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
             <td style="text-align: center;">d</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/lorenzo.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Lorenzo Navarro</td>
-            <td style="text-align: justify;">c</td>
+            <td style="text-align: justify;">Estudiante de ingenieria de software. Actualmente enfocado en desarrollo movil y backend. En busqueda de mi primer internship y dispuesto a competir siempre en un nivel alto. </td>
             <td style="text-align: center;">U201713141</td>
          </tr>
       </tbody>
