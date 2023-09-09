@@ -21,7 +21,7 @@
 | :------------------------------- | :--------: |
 | Adrian Gonzalo Melgar Takahashi  | U201819465 |
 | Lorenzo Sebastian Navarro Robles | U201713141 |
-| Sebastian Alonso Bustinza Muñoz                                 | U202123362 |
+| Sebastian Alonso Bustinza Muñoz  | U202123362 |
 |                                  | U000000004 |
 |                                  | U000000005 |
 
@@ -289,6 +289,7 @@ Aquellos que desean probar diferentes tipos de embarcaciones antes de tomar una 
 <strong>How - ¿Cómo se llevan a cabo los hechos?</strong>Los hechos se desencadenan cuando las personas desean alquilar una embarcación para una aventura en el agua pero encuentran que las opciones disponibles son limitadas o costosas. Esto suele resultar en la renuncia a la experiencia o en la búsqueda de alternativas menos satisfactorias.
 <br>
 <strong>How much- ¿Cuál es la magnitud del problema?</strong>Según datos recopilados, se estima que un gran porcentaje de entusiastas de la navegación y viajeros potenciales se ven afectados por esta barrera financiera. A nivel global, la falta de acceso a embarcaciones puede limitar la participación en actividades acuáticas y la exploración de hermosos destinos costeros, lo que representa un mercado insatisfecho y un potencial de crecimiento significativo para nuestro servicio de alquiler de embarcaciones.</br>
+
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
 En el contexto de la industria de alquiler de embarcaciones, enfrentamos una serie de desafíos significativos que afectan la experiencia de los clientes y la adopción de nuestro servicio. Los problemas predominantes incluyen la falta de acceso conveniente a una variedad de embarcaciones, la falta de información clara sobre las opciones disponibles, la complejidad de las reservas y la falta de orientación personalizada para los clientes. <br>
@@ -727,10 +728,139 @@ Después de llevar a cabo las entrevistas planificadas con el cliente y los alqu
 <p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</br></br>En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
 
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
+
+Needfinding es un paso esencial que implica la búsqueda y comprensión de las necesidades del mercado. Identificar estas necesidades a través de la investigación nos permite generar soluciones innovadoras basadas en las demandas concretas de los usuarios.
+
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
+
+#### Cliente
+
+<div align="center">
+   <img src="static/needfinding/User-Persona-Cliente-Matthew-Lopez.png">
+</div>
+
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
+
+Se efectúa un análisis de las funciones clave identificadas en la problemática, fundamentado en los comentarios recopilados de los dos grupos de usuarios: Cliente y Dueño de barcos.
+
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;" rowspan="1" colspan="5">Swift Ship's Task Matrix</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td rowspan="3" colspan="1" style="text-align: center;">Task Matrix</td></tr>
+         <tr>
+            <td rowspan="1" colspan="2" style="text-align: center"> Cliente </td>
+            <td rowspan="1" colspan="2" style="text-align: center"> Dueño de barcos </td></tr>
+         <tr>
+            <td style="text-align: center">Frecuencia</td>
+            <td style="text-align: center">Importancia</td>
+            <td style="text-align: center">Frecuencia</td>
+            <td style="text-align: center">Importancia</td></tr>
+         <tr>
+            <td style="text-align: center">Búsqueda de Embarcaciones</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Baja</td></tr>
+         <tr>
+            <td style="text-align: center">Filtrar y Comparar</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Media</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Baja</td></tr>
+         <tr>
+            <td style="text-align: center">Realizar Reservas</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Media</td></tr>
+         <tr>
+            <td style="text-align: center">Comunicación con Propietarios</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Baja</td></tr>
+         <tr>
+            <td style="text-align: center">Evaluación y Reseñas</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Registro de Embarcaciones</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Bajo</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Gestión de Calendario</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Bajo</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Comunicación con Clientes</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Media</td></tr>
+         <tr>
+            <td style="text-align: center">Aprobación de Reservas</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Media</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Mantenimiento y Seguridad</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+            <tr>
+            <td style="text-align: center">Seguimiento de Evaluaciones</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Media</td></tr>
+            <tr>
+            <td style="text-align: center">Soporte al Client</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+            <tr>
+            <td style="text-align: center">Manejo de Pagos</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+      </tbody>
+   </table>
+</div>
+
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
+
+#### **Segmento 1:** Cliente que desea alquilar un barco
+
+<div align="center">
+   <img src="./static/needfinding/customer-journey-map.png">
+</div>
+
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
+
+En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que nos dirigimos. Utilizamos esta herramienta para identificar a nuestra audiencia objetivo, comprender su contexto y sus requerimientos, lo que nos permite ver el mundo desde su punto de vista.
+
+#### Cliente
+
+<div align="center">
+   <img src="./static/needfinding/cliente-empathy-map.png">
+</div>
+
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
