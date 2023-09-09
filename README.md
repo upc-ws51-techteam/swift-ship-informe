@@ -925,8 +925,7 @@ Color Secundario: El verde, además de transmitir tranquilidad y calma, se asoci
 </br>
 Blanco: Representa limpieza y claridad.
 </br>
-</br>
-Negro: Color serio y elegante. El lenguaje a utilizar será serio, formal, respetuoso junto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
+</br>Desktop Web Browseto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
 
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
@@ -954,6 +953,8 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 <h3><a id="web-applications-mock-ups">4.4.2. Web Applications Mock-ups</a></h3>
 
 Se muestra una vista previa de lo que constituirá nuestro sitio web, describiendo en detalle su contenido, aplicando los colores correspondientes según nuestra guía de estilos y complementando la información con imágenes coherentes. Esto se hace con el objetivo de brindar al usuario una comprensión más nítida de las ideas que estamos tratando de comunicar.
+
+<img src="">
 
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
