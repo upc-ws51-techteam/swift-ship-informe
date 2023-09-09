@@ -740,7 +740,57 @@ Después de llevar a cabo las entrevistas planificadas con el cliente y los alqu
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
+Brand Name
+
+El nombre del software identificado es Swift Ship. Descomponiendo el nombre en dos, ‘swift’ que significa rápido y ‘ship’ que significa nave. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal especializado en contactar y gestionar a los propietarios para conseguir una reserva rápidamente, por ello se optó por la búsqueda de propietarios de barcos. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. A continuación, se presenta el logo o marca de nuestra solución propuesta.
+</br>
+</br>
+<img src="./static/style-guidelines/Icono-1.PNG" >
+</br>
+</br>
+<img src="./static/style-guidelines/Icono-2.PNG" >
+Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural.
+</br>
+</br>
+Typography
+</br>
+</br>
+<img src="./static/style-guidelines/tipografia.PNG" >
+</br>
+</br>
+<img src="./static/style-guidelines/body.PNG" >
+Colors
+</br>
+</br>
+<img src="./static/style-guidelines/colors.PNG" >
+Spacing
+</br>
+</br>
+<img src="./static/style-guidelines/spacing.PNG" >
+Tono de comunicación y lenguaje aplicado
+</br>
+</br>
+Color Primario: El color azul suele relacionarse con elementos de la naturaleza, tales como el agua y el aire. Además, inspira sentimientos de amistad, lealtad, seguridad y confianza.
+</br>
+</br>
+Color Secundario: El verde, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad. 
+</br>
+</br>
+Blanco: Representa limpieza y claridad. 
+</br>
+</br>
+Negro: Color serio y elegante. El lenguaje a utilizar será serio, formal, respetuoso junto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
+Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
+</br>
+</br>
+<img src="./static/style-guidelines/botones.PNG" >
+</br>
+</br>
+<img src="./static/style-guidelines/big-elements.PNG" >
+</br>
+</br>
+<img src="./static/style-guidelines/cards.PNG" >
 <h3><a id="information-architecture">4.2. Information Architecture</a></h3>
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
