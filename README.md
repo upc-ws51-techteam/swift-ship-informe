@@ -643,6 +643,15 @@ En la actualidad, el alquiler de embarcaciones se ha convertido en una opción d
 5. ¿Consideras que una aplicación, ya sea web o móvil, para el servicio de alquiler de barcos es mejor que contactar con el proveedor de manera tradicional?
 6. ¿Cuáles son los factores más importantes que estarías buscando en el servicio ofrecido de alquiler de barcos?
 
+
+**Preguntas Específicas para Intermediarios:**
+1. ¿Cuál es el proceso de contrato al recibir la solicitud de alquiler de barcos?
+2. ¿En qué área se desempeña y qué actividades realiza?
+3. ¿Cuál es su criterio de busqueda de empresas o dueños de barcos? ¿Existe más beneficios trabajanado con empresas o con dueños independientes?
+4. ¿Cuál es el procedimiento ante algún accidente o evento ambiental?
+5. ¿Consideras factible una aplicación donde puedas encontrar tanto clientes mineras y empresas de alquiler de barcos?
+
+
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 
 ### **Usuario cliente**
