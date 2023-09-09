@@ -23,7 +23,6 @@
 | Lorenzo Sebastian Navarro Robles | U201713141 |
 | Sebastian Alonso Bustinza Muñoz  | U202123362 |
 | Gianfranco Luna Morales          | U201824343 |
-|                                  | U000000005 |
 
 <p align="center"><strong>Organización GitHub: </strong> <a href="https://github.com/upc-ws51-techteam" target="_blank">Tech-Team-Swift-Ship</a></p>
 
@@ -31,28 +30,28 @@
 </br>
 
 <h1 align="center">Registro de versiones</h1>
-</br>
 
-<div align="center">
-   <table>
-      <thead >
-         <tr>
-            <th>Versión</th>
-            <th>Fecha</th>
-            <th>Autor</th>
-            <th>Descripción de modificaciones</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-         </tr>
-      </tbody>
-   </table>
-</div>
+</br>
+<table>
+        <thead>
+            <tr>
+                <th>Versión</th>
+                <th>Fecha</th>
+                <th>Autor</th>
+                <th>Descripción de modificaciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.0</td>
+                <td>07/09/2023</td>
+                <td>Navarro, Lorenzo<br>Melgar, Adrian<br>Luna, Gianfranco<br>Bustinza, Sebastian<br></td>
+                <td>Entrega de la primera versión del trabajo parcial de Aplicaciones Web: Landing Page.</td>
+            </tr>
+        </tbody>
+    </table>
+
+</br>
 
 <h1 align="center">Swift Ship</h1>
 </br>
@@ -199,7 +198,7 @@
             <td rowspan="6" style="text-align: justify;">Conclusion</td>
          </tr>
          <tr>
-            <td><strong>Dummy Dummy 1</br>TB1:</strong></br>Hice ... </td>
+            <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo del Capítulo I, As-is scenario mapping, el desarrollo del ppt, style guidelines, entre otras cosas junto con mis compañeros.</td>
          </tr>
          <tr>
             <td><strong>Dummy Dummy 2</br>TB1:</strong></br>Hice ...</td>
@@ -259,7 +258,7 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
             <td style="text-align: center;">U202123362</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/Gianfranco.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/gianfranco.JPG" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Gianfranco Luna</td>
             <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
             <td style="text-align: center;">U201824343</td>
@@ -700,33 +699,6 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 <p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Jessica Morales</a></p>
 <p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
 </div>
-
-<h4>Entrevista 2</h4>
-
-<div align ="center">
-
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
-
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
-</div>
-
-<h4>Entrevista 3</h4>
-
-<div align ="center">
-
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
-
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
-</div>
-
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 
 Después de llevar a cabo las entrevistas planificadas con el cliente y los alquiladores de barcos, hemos recopilado información valiosa para el proyecto actual.
