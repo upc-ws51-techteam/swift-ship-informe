@@ -864,9 +864,13 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
+<img src="./static/to-be-scenario.jpg">
 <h3><a id="user-stories">3.2. User Stories</a></h3>
+<img src="./static/user-stories.png">
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
+<img src="./static/impact-mapping.png">
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
+<img src="./static/product-backlog.png">
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
