@@ -844,6 +844,9 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
 </div>
 
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
+
+#### **Segmento 1:** Cliente que desea alquilar un barco
+
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
