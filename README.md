@@ -22,7 +22,7 @@
 | Adrian Gonzalo Melgar Takahashi  | U201819465 |
 | Lorenzo Sebastian Navarro Robles | U201713141 |
 | Sebastian Alonso Bustinza Muñoz  | U202123362 |
-|                                  | U000000004 |
+| Gianfranco Luna Morales          | U201824343 |
 |                                  | U000000005 |
 
 </div>
@@ -257,10 +257,10 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
             <td style="text-align: center;">U202123362</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/img.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="./static/teams-photos/Gianfranco.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Gianfranco Luna</td>
-            <td style="text-align: justify;">c</td>
-            <td style="text-align: center;">d</td>
+            <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
+            <td style="text-align: center;">U201824343</td>
          </tr>
          <tr>
             <td style="text-align: center;"><img src="./static/teams-photos/lorenzo.png" width="50" height="60" style="border-radius: 25%;"></td>
@@ -682,13 +682,13 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Nombre  | Apellido | Edad |
+| :-----  | :------- | :--: |
+| Jessica | Morales  |  48  |
 
 <img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista a Jessica Morales</a></p>
+<p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
 </div>
 
 <h4>Entrevista 2</h4>
