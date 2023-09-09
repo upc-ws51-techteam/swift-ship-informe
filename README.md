@@ -194,8 +194,8 @@
             <td rowspan="6" style="text-align: justify;">Capacidad de comunicarse efectivamente con un rango de audiencias</td>
          </tr>
          <tr>
-            <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Hice ...</td>
-            <td rowspan="6" style="text-align: justify;">Conclusion</td>
+            <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>En el contexto de esta entrega, he estado plenamente involucrado y he compartido de forma proactiva mis progresos en la redacción del proyecto. Asimismo, se llevaron a cabo diversas reuniones para intercambiar ideas y asignar las responsabilidades necesarias.</td>
+            <td rowspan="6" style="text-align: justify;">La habilidad de contribuir de manera efectiva en equipos que reúnen diversas disciplinas es fundamental para el triunfo de los proyectos en el ámbito de soluciones de ingeniería de software. La efectividad, productividad y enfoque en la cooperación pueden elevar la excelencia del producto final y la satisfacción del cliente. Por lo tanto, resulta esencial que los ingenieros de software cultiven competencias en comunicación, colaboración y trabajo en equipo para alcanzar un rendimiento máximo en un entorno laboral que involucra múltiples disciplinas.</td>
          </tr>
          <tr>
             <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo del Capítulo I, As-is scenario mapping, el desarrollo del ppt, style guidelines, entre otras cosas junto con mis compañeros.</td>
@@ -1010,4 +1010,3 @@ Usamos gitflow para gestionar el codigo fuente.
 <h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
 <h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
 <h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
-
