@@ -862,6 +862,7 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 </div>
 
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
+<img src="./static/As-is.jpg">
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
 <img src="./static/to-be-scenario.jpg">
