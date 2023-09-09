@@ -194,7 +194,7 @@
             <td rowspan="6" style="text-align: justify;">Capacidad de comunicarse efectivamente con un rango de audiencias</td>
          </tr>
          <tr>
-            <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Hice ...</td>
+            <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>En el contexto de esta entrega, he estado plenamente involucrado y he compartido de forma proactiva mis progresos en la redacción del proyecto. Asimismo, se llevaron a cabo diversas reuniones para intercambiar ideas y asignar las responsabilidades necesarias.</td>
             <td rowspan="6" style="text-align: justify;">Conclusion</td>
          </tr>
          <tr>
@@ -1010,4 +1010,3 @@ Usamos gitflow para gestionar el codigo fuente.
 <h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
 <h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
 <h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
-
