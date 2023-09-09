@@ -946,6 +946,9 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
+
+En esta sección, presentaremos los fundamentos para diseñar el sitio web de nuestro software. Estos fundamentos nos ayudarán a brindar una comprensión más clara del contenido que la plataforma y la versión móvil mostrarán. El Landing Page se ajustará al tamaño de las pantallas de cada dispositivo, asegurando que la información esté centrada y sea fácilmente visible para el usuario. Nuestro objetivo es proporcionar información precisa sin abrumar al usuario, y para lograrlo, hemos incorporado una barra de navegación estática que facilitará la exploración de la Landing Page.
+
 <h3><a id="landing-page-wireframe">4.3.1. Landing Page Wireframe</a></h3>
 <h3><a id="landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3>
 <h3><a id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3>
