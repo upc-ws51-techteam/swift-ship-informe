@@ -740,6 +740,109 @@ Needfinding es un paso esencial que implica la búsqueda y comprensión de las n
 </div>
 
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
+
+Se efectúa un análisis de las funciones clave identificadas en la problemática, fundamentado en los comentarios recopilados de los dos grupos de usuarios: Cliente y Dueño de barcos.
+
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;" rowspan="1" colspan="5">Swift Ship's Task Matrix</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td rowspan="3" colspan="1" style="text-align: center;">Task Matrix</td></tr>
+         <tr>
+            <td rowspan="1" colspan="2" style="text-align: center"> Cliente </td>
+            <td rowspan="1" colspan="2" style="text-align: center"> Dueño de barcos </td></tr>
+         <tr>
+            <td style="text-align: center">Frecuencia</td>
+            <td style="text-align: center">Importancia</td>
+            <td style="text-align: center">Frecuencia</td>
+            <td style="text-align: center">Importancia</td></tr>
+         <tr>
+            <td style="text-align: center">Búsqueda de Embarcaciones</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Baja</td></tr>
+         <tr>
+            <td style="text-align: center">Filtrar y Comparar</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Media</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Baja</td></tr>
+         <tr>
+            <td style="text-align: center">Realizar Reservas</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Media</td></tr>
+         <tr>
+            <td style="text-align: center">Comunicación con Propietarios</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Baja</td></tr>
+         <tr>
+            <td style="text-align: center">Evaluación y Reseñas</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Registro de Embarcaciones</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Bajo</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Gestión de Calendario</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Bajo</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Comunicación con Clientes</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Media</td></tr>
+         <tr>
+            <td style="text-align: center">Aprobación de Reservas</td>
+            <td style="text-align: center">Nunca</td>
+            <td style="text-align: center">Media</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+         <tr>
+            <td style="text-align: center">Mantenimiento y Seguridad</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+            <tr>
+            <td style="text-align: center">Seguimiento de Evaluaciones</td>
+            <td style="text-align: center">A veces</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Media</td></tr>
+            <tr>
+            <td style="text-align: center">Soporte al Client</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+            <tr>
+            <td style="text-align: center">Manejo de Pagos</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td>
+            <td style="text-align: center">Siempre</td>
+            <td style="text-align: center">Alta</td></tr>
+      </tbody>
+   </table>
+</div>
+
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
