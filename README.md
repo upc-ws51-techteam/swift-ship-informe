@@ -991,6 +991,13 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 <h3><a id="software-configuration-management">5.1. Software Configuration Management</a></h3>
 <h3><a id="software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></h3>
 <h3><a id="source-code-management">5.1.2. Source Code Management</a></h3>
+
+Usamos gitflow para gestionar el codigo fuente.
+
+<img src="static/git-flow/Screenshot from 2023-09-09 17-44-59.png" align="center">
+</br></br>
+<img src="static/git-flow/Screenshot from 2023-09-09 17-55-30.png" align="center">
+
 <h3><a id="source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></h3>
 <h3><a id="software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3>
 <h3><a id="landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></h3>
