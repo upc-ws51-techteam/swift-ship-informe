@@ -966,6 +966,8 @@ En esta sección, presentaremos los fundamentos para diseñar el sitio web de nu
 <img src="static/ui-desing/wireframes-landing-page/Desktop - 4swift-ship-wireframes.jpg" align="center">
 </br></br>
 
+<p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
+
 <h3><a id="landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3>
 <h3><a id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3>
 <h3><a id="web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3>
