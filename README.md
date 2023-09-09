@@ -913,8 +913,13 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 </br>
 <img src="./static/style-guidelines/cards.PNG" >
 <h3><a id="information-architecture">4.2. Information Architecture</a></h3>
+La arquitectura de información que se tiene planeado implementar en “Swift-Ship”, permitirá a los usuarios encontrar lo que desean de la manera más simple y dinámica posible. Entre nuestras propuestas tenemos: contar con un sistema de búsquedas en el menú principal. En este apartado, los usuarios tendrán la posibilidad de consultar y encontrar empresas de barcos que sean de su interés, así como también escoger el tipo de barco que deseen por medio de un filtro, así como la empresa a la que esta afilidad. Por otro lado, el usuario podrá recibir ofertas y recomendaciones en base a sus intereses y la época del año, tales como actividades que sean parecidas a sus anteriores alquileres, empresas que ofrezcan barcos similares, entre otros. Creemos que, de esta manera, nuestros clientes podrán interesarse en utilizar la aplicación y ser consumidores activos.
+
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
+El sistema de organización que se planea implementar para “Swift-Ship”, les permitirá a los usuarios visualizar la interfaz de forma atractiva, para que sea fácil de usar. Dicho sistema de organización poseerá temas específicos y recomendaciones en base a sus intereses seleccionados en el registro, el diseño está hecho de tal manera que el cliente no se pierda. Se realizará el uso de la organización secuencial (step-by-step to accomplish) o matricial.
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
+Los datos se van a representar en botones con imágenes y frases cortas de tal manera que a los usuarios les sea sencillo a la hora de cambiar sección y aumentando su tiempo en la app. Esto también ayudará al usuario a navegar de manera intuitiva ya que los colores seleccionados ayudarían a enfocar la percepción del usuario.
+
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
 
 En el siguiente apartado, se expondrán los etiquetas SEO y etiquetas meta empleados en la Landing Page con la finalidad de mejorar su presencia en los resultados de búsqueda de los motores de búsqueda. Página de Aterrizaje:
@@ -922,7 +927,12 @@ En el siguiente apartado, se expondrán los etiquetas SEO y etiquetas meta emple
 <img src="static/SEO.png" align="center">
 
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
+Para la búsqueda de áreas, en cada página habrá un buscador libre y una herramienta de filtros por categorías para encontrar los barcos con una categoría asignada por los moderadores de la app.
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
+Si el usuario inicia sesión con su cuenta, llegará a la página principal de la app, donde se visualizará sus datos importantes, en la parte inferior se encontrará un panel de navegación con las opciones principales como “Perfil”, “Categorías”, “Personalizaciones”, “Configuración”. Cuando el usuario decida ir a cualquier opción le aparecerá una nueva ventana con el título de la opción previamente seleccionada con otras posibilidades.
+Por ejemplo:
+Abrir “Categorías” y seleccionar “Transporte”, al marcar esta opción lo llevará a una pantalla donde podrá seleccionar el monto y el material a transportar, sean minerales, propiedades, etc.
+
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
 
 Las Landing Pages son herramientas destinadas a convertir a los visitantes en posibles clientes mediante diversas estrategias, como mensajes atractivos y detalles sobre tu producto, entre otros recursos. Por esta razón, optamos por emplear esta herramienta y creamos una versión preliminar tanto para dispositivos móviles como para computadoras.
@@ -993,3 +1003,4 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 <h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
 <h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
 <h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
+
