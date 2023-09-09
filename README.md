@@ -925,8 +925,7 @@ Color Secundario: El verde, además de transmitir tranquilidad y calma, se asoci
 </br>
 Blanco: Representa limpieza y claridad.
 </br>
-</br>
-Negro: Color serio y elegante. El lenguaje a utilizar será serio, formal, respetuoso junto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
+</br>Desktop Web Browseto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
 
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
@@ -973,6 +972,21 @@ En esta sección, presentaremos los fundamentos para diseñar el sitio web de nu
 <h3><a id="web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3>
 <h3><a id="web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></h3>
 <h3><a id="web-applications-mock-ups">4.4.2. Web Applications Mock-ups</a></h3>
+
+Se muestra una vista previa de lo que constituirá nuestro sitio web, describiendo en detalle su contenido, aplicando los colores correspondientes según nuestra guía de estilos y complementando la información con imágenes coherentes. Esto se hace con el objetivo de brindar al usuario una comprensión más nítida de las ideas que estamos tratando de comunicar.
+
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 1swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 2swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 3swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 4swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<img src="static/ui-desing/mock-ups-landing-page/mock-ups - 5swift-ship-mock-ups.jpg" align="center">
+</br></br>
+<p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
+
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
 <h3><a id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3>
