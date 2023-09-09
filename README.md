@@ -288,6 +288,7 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
 <img src="./static/impact-mapping.png">
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
+<img src="./static/product-backlog.png">
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
