@@ -749,6 +749,8 @@ El nombre del software identificado es Swift Ship. Descomponiendo el nombre en d
 </br>
 </br>
 <img src="./static/style-guidelines/Icono-2.PNG" >
+</br>
+</br>
 Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural.
 </br>
 </br>
@@ -767,6 +769,8 @@ Spacing
 </br>
 </br>
 <img src="./static/style-guidelines/spacing.PNG" >
+</br>
+</br>
 Tono de comunicación y lenguaje aplicado
 </br>
 </br>
