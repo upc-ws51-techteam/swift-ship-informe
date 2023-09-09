@@ -845,6 +845,15 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
 
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
+
+En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que nos dirigimos. Utilizamos esta herramienta para identificar a nuestra audiencia objetivo, comprender su contexto y sus requerimientos, lo que nos permite ver el mundo desde su punto de vista.
+
+#### Cliente
+
+<div align="center">
+   <img src="./static/needfinding/cliente-empathy-map.png">
+</div>
+
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
