@@ -846,7 +846,17 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 <img src="./static/As-is.jpg">
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
-<img src="./static/to-be-scenario.jpg">
+<h4>Segmento 1. Cliente que reservara la embarcacion</h4>
+<img src="./static/To-Be Scenario (1).jpg">
+<br>
+Se presenta la version nuestro primer segmento objetivo, el cliente que desea reservar una embarcacion, en la que indican la satisfaccion de la plataforma al utilizar nuestro proceso simple de reserva. 
+<br>
+<h4>Segmento 2. Dueño de una embarcacion</h4>
+<img src="./static/To-Be Scenario-2.jpg">
+<br>
+Nuestro segundo segmento objetivo, el dueño de una embarcacion que desea publicar sus servicios, indica su avance y satisfaccion utilizando nuestra plataforma. 
+<br>
+Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_id=396936615711" target="_blank">To-Be Scenario</a>
 <h3><a id="user-stories">3.2. User Stories</a></h3>
 <img src="./static/user-stories.png">
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
