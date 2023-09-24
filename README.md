@@ -861,6 +861,8 @@ Nuestro segundo segmento objetivo, el dueño de una embarcacion que desea public
 Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_id=396936615711" target="_blank">To-Be Scenario</a>
 <h3><a id="user-stories">3.2. User Stories</a></h3>
 <img src="./static/user-stories.png">
+<br>
+Enlace de las <a href="https://docs.google.com/spreadsheets/d/1OkDbz_ln8PR15yImS_z5vyMBKfeW-zrW2aR4voMLBxM/edit?usp=sharing">User Stories</a>
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
 <img src="./static/impact-mapping.png">
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
