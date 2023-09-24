@@ -104,6 +104,8 @@
 <il><h3><a href="#impact-mapping">3.3. Impact Mapping</a></h3></il>
 <il><h3><a href="#product-backlog">3.4. Product Backlog</a></h3></il>
 
+
+
 <il><h1><a href="#capitulo-4">Capítulo IV: Product Design</a></h1></il>
 <il><h3><a href="#style-guidelines">4.1. Style Guidelines</a></h3></il>
 
@@ -863,6 +865,8 @@ Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_i
 <img src="./static/impact-mapping.png">
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
 <img src="./static/product-backlog.png">
+<br>
+Enlace del <a href="https://www.pivotaltracker.com/n/projects/2677748">Product Backlog</a>
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
