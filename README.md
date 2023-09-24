@@ -871,6 +871,9 @@ Enlace de las <a href="https://docs.google.com/spreadsheets/d/1OkDbz_ln8PR15yImS
 </div>
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
 <div align="center">
+   <img src="./static/backlog-excel.png">
+   <br>
+   Enlace del <a href="https://docs.google.com/spreadsheets/d/1Y_r28xXyDESpcPT8EGihChXtTKlph7SG5NzbYnCCF-E/edit?usp=sharing">Product Backlog</a>
    <img src="./static/product-backlog.png">
    <br>
    Enlace del <a href="https://www.pivotaltracker.com/n/projects/2677748">Product Backlog</a>
