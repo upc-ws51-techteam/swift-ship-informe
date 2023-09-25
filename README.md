@@ -873,10 +873,9 @@ Enlace de las <a href="https://docs.google.com/spreadsheets/d/1OkDbz_ln8PR15yImS
 <div align="center">
    <img src="./static/backlog-excel.png">
    <br>
-   Enlace del <a href="https://docs.google.com/spreadsheets/d/1Y_r28xXyDESpcPT8EGihChXtTKlph7SG5NzbYnCCF-E/edit?usp=sharing">Product Backlog</a>
    <img src="./static/product-backlog.png">
    <br>
-   Enlace del <a href="https://www.pivotaltracker.com/n/projects/2677748">Product Backlog</a>
+   Enlace del product backlog en <a href="https://www.pivotaltracker.com/n/projects/2677748">Pivotal Tracker</a> y <a href="https://docs.google.com/spreadsheets/d/1Y_r28xXyDESpcPT8EGihChXtTKlph7SG5NzbYnCCF-E/edit?usp=sharing">Drive</a>
 </div>
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
