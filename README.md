@@ -858,7 +858,12 @@ Nuestro segundo segmento objetivo, el dueño de una embarcacion que desea public
 <br>
 Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_id=396936615711" target="_blank">To-Be Scenario</a>
 <h3><a id="user-stories">3.2. User Stories</a></h3>
-<img src="./static/user-stories.png">
+<div align="center">
+   En esta seccion se presentan las user stories correspondientes a nuestra aplicacion incluyendo el landing page y los servicios web desde el segmento developer. Se describen las caracteristicas que requieren nuestros dos segmentos objetivos, nuestros criterios de aceptacion y las relaciones con Epics correspondientes
+   <img src="./static/Screenshot (1).png">
+   <br>
+   Enlace de los <a href="https://docs.google.com/spreadsheets/d/1OkDbz_ln8PR15yImS_z5vyMBKfeW-zrW2aR4voMLBxM/edit?usp=sharing">User Stories</a>
+</div>
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
 <img src="./static/impact-mapping.png">
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
