@@ -104,6 +104,8 @@
 <il><h3><a href="#impact-mapping">3.3. Impact Mapping</a></h3></il>
 <il><h3><a href="#product-backlog">3.4. Product Backlog</a></h3></il>
 
+
+
 <il><h1><a href="#capitulo-4">Capítulo IV: Product Design</a></h1></il>
 <il><h3><a href="#style-guidelines">4.1. Style Guidelines</a></h3></il>
 
@@ -864,10 +866,21 @@ Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_i
    <br>
    Enlace de los <a href="https://docs.google.com/spreadsheets/d/1OkDbz_ln8PR15yImS_z5vyMBKfeW-zrW2aR4voMLBxM/edit?usp=sharing">User Stories</a>
 </div>
+
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
-<img src="./static/impact-mapping.png">
+<div align="center">
+   <img src="./static/impact-mapping.png">
+   <br>
+   Enlace del <a href="https://uxpressia.com/w/qsUXW/i/wQVaJ">Impact Mapping</a>
+</div>
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
-<img src="./static/product-backlog.png">
+<div align="center">
+   <img src="./static/backlog-excel.png">
+   <br>
+   <img src="./static/product-backlog.png">
+   <br>
+   Enlace del product backlog en <a href="https://www.pivotaltracker.com/n/projects/2677748">Pivotal Tracker</a> y <a href="https://docs.google.com/spreadsheets/d/1Y_r28xXyDESpcPT8EGihChXtTKlph7SG5NzbYnCCF-E/edit?usp=sharing">Drive</a>
+</div>
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
