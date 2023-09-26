@@ -1009,7 +1009,7 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 En esta seccion se presentan los diagramas de la arquitectura de software con aplicacion de patrones de diseño de alto nivel, bajo el enfoque Domain Driven, para una comunicacion efectiva de nuestro diseño de arquitectura.
 <h3><a id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3>
 <div align="center">
-   <img src="./static/software-context-diagram.png">
+   <img src="./static/software-architecture-context-diagram.png">
    <br>
    Enlace del <a href="https://structurizr.com/share/86348/diagrams#SystemLandscape-001">Software Architecture Context Diagram</a>
 </div>
