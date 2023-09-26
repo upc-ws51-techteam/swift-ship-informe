@@ -1006,7 +1006,13 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
 <h3><a id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3>
+En esta seccion se presentan los diagramas de la arquitectura de software con aplicacion de patrones de diseño de alto nivel, bajo el enfoque Domain Driven, para una comunicacion efectiva de nuestro diseño de arquitectura.
 <h3><a id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3>
+<div align="center">
+   <img src="./static/context-diagram.png">
+   <br>
+   Enlace del <a href="https://structurizr.com/share/86348/diagrams#SystemLandscape-001">Software Architecture Context Diagram</a>
+</div>
 <h3><a id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3>
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
