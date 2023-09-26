@@ -1014,6 +1014,11 @@ En esta seccion se presentan los diagramas de la arquitectura de software con ap
    Enlace del <a href="https://structurizr.com/share/86348/diagrams#SystemLandscape-001">Software Architecture Context Diagram</a>
 </div>
 <h3><a id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3>
+<div align="center">
+   <img src="./static/container-diagram.png">
+   <br>
+   Enlace del <a href="https://structurizr.com/share/86372">Software Architecture Container Diagrams</a>
+</div>
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
 <h3><a id="class-diagrams">4.7.1. Class Diagrams</a></h3>
