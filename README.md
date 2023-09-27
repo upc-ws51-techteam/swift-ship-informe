@@ -104,6 +104,8 @@
 <il><h3><a href="#impact-mapping">3.3. Impact Mapping</a></h3></il>
 <il><h3><a href="#product-backlog">3.4. Product Backlog</a></h3></il>
 
+
+
 <il><h1><a href="#capitulo-4">Capítulo IV: Product Design</a></h1></il>
 <il><h3><a href="#style-guidelines">4.1. Style Guidelines</a></h3></il>
 
@@ -846,13 +848,39 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 <img src="./static/As-is.jpg">
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
-<img src="./static/to-be-scenario.jpg">
+<h4>Segmento 1. Cliente que reservara la embarcacion</h4>
+<img src="./static/To-Be Scenario (1).jpg">
+<br>
+Se presenta la version nuestro primer segmento objetivo, el cliente que desea reservar una embarcacion, en la que indican la satisfaccion de la plataforma al utilizar nuestro proceso simple de reserva. 
+<br>
+<h4>Segmento 2. Dueño de una embarcacion</h4>
+<img src="./static/To-Be Scenario-2.jpg">
+<br>
+Nuestro segundo segmento objetivo, el dueño de una embarcacion que desea publicar sus servicios, indica su avance y satisfaccion utilizando nuestra plataforma. 
+<br>
+Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_id=396936615711" target="_blank">To-Be Scenario</a>
 <h3><a id="user-stories">3.2. User Stories</a></h3>
-<img src="./static/user-stories.png">
+<div align="center">
+   En esta seccion se presentan las user stories correspondientes a nuestra aplicacion incluyendo el landing page y los servicios web desde el segmento developer. Se describen las caracteristicas que requieren nuestros dos segmentos objetivos, nuestros criterios de aceptacion y las relaciones con Epics correspondientes
+   <img src="./static/Screenshot (1).png">
+   <br>
+   Enlace de los <a href="https://docs.google.com/spreadsheets/d/1OkDbz_ln8PR15yImS_z5vyMBKfeW-zrW2aR4voMLBxM/edit?usp=sharing">User Stories</a>
+</div>
+
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
-<img src="./static/impact-mapping.png">
+<div align="center">
+   <img src="./static/impact-mapping.png">
+   <br>
+   Enlace del <a href="https://uxpressia.com/w/qsUXW/i/wQVaJ">Impact Mapping</a>
+</div>
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
-<img src="./static/product-backlog.png">
+<div align="center">
+   <img src="./static/backlog-excel.png">
+   <br>
+   <img src="./static/product-backlog.png">
+   <br>
+   Enlace del product backlog en <a href="https://www.pivotaltracker.com/n/projects/2677748">Pivotal Tracker</a> y <a href="https://docs.google.com/spreadsheets/d/1Y_r28xXyDESpcPT8EGihChXtTKlph7SG5NzbYnCCF-E/edit?usp=sharing">Drive</a>
+</div>
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
@@ -978,8 +1006,19 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
 <h3><a id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3>
+En esta seccion se presentan los diagramas de la arquitectura de software con aplicacion de patrones de diseño de alto nivel, bajo el enfoque Domain Driven, para una comunicacion efectiva de nuestro diseño de arquitectura.
 <h3><a id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3>
+<div align="center">
+   <img src="./static/software-architecture-context-diagram.png">
+   <br>
+   Enlace del <a href="https://structurizr.com/share/86348/diagrams#SystemLandscape-001">Software Architecture Context Diagram</a>
+</div>
 <h3><a id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3>
+<div align="center">
+   <img src="./static/container-diagram.png">
+   <br>
+   Enlace del <a href="https://structurizr.com/share/86372">Software Architecture Container Diagrams</a>
+</div>
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
 <h3><a id="class-diagrams">4.7.1. Class Diagrams</a></h3>
