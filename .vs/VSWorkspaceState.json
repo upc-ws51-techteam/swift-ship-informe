@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static"
+    "\\static",
+    "\\static\\needfinding"
   ],
-  "SelectedNode": "\\static\\to-be-scenario.jpg",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

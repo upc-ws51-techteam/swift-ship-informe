@@ -684,7 +684,7 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 </p>
 </div>
 
-### **Usuario otro**
+### **Usuario Intermediario**
 
 <h4>Entrevista 1</h4>
 
@@ -696,8 +696,22 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 
 <img src="./static/interviews/entrevista-Jessica-Morales.png" >
 <p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Jessica Morales</a></p>
-<p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
+<p align="justify">Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Su plataforma preferia al laborar es su PC, su buscador preferencial es Google Chrome y su medio de comunicación es un dispositivo Android. Esta encargada del área de operaciones, en el cuál luego de confirmar un contrato entre su cliente y la empresa de alquiler, genera un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. Sin embargo, esta tarea le es pesada y agotada ya que debe realizar un total seguimiento y estar al pendiente ante la llegada del barco a su destino.</br></br>A Jessica le incomoda levantarse en la madrugada al ser informada del arrivo del barco para registrar el evento, lo cual desea que sea de forma automática.</div></div> Finalmente, menciona que le encanta la idea de la aplicación donde los procesos sean realizados en un solo lugar y le gustaría que se pueda realizar el registro de manera automática para facilitarle el trabajo y poder llegar a un acuerdo de manera eficaz.
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| Meyling | Rojas    |  25  |
+
+<img src="./static/interviews/entrevista-Meyling-Rojas.png" >
+<p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Meyling Rojas</a></p>
+<p align="justify">Meyling Rojas, actualmente labora en Cosco, una empresa intermediaria que genera contacto entre empreas de alquileres y usuarios. Su plataforma preferia al laborar es su laptop, su buscador preferencial es Google Chrome y edge y su medio de comunicación es un dispositivo Android. Esta encargada del área de contratos, en el cuál luego de ubicar a un cliente se comunica con la empresa de alquiler, sin embargo no siempre puede brindar el barco adecuado por bajo presupuesto, por lo que brinda al cliente opciones similares.</br></br> A Meyling le incomoda no poder tener una empresa afiliada para generar un historial y poder acceder a barcos económicos pero que satisfagan los requerimientos de los clientes. Esto le genera temor de que no deseen volver a contactar con Cosco por no brindar el barco requerido.</br></br>A Meyling le agrada la idea de una aplicación donde puedan comunicarse todas las partes para acceder y establecer los requerimientos de manera eficaz, así como visualizar distintas empresas y poder contactarse con ellas para tener una oportunidad de generar un historial y acceder a barcos más económicos pero con el mismo rendimiento.
+
 </div>
+
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 
 Después de llevar a cabo las entrevistas planificadas con el cliente y los alquiladores de barcos, hemos recopilado información valiosa para el proyecto actual.
@@ -706,7 +720,21 @@ Después de llevar a cabo las entrevistas planificadas con el cliente y los alqu
 
 #### Análisis objetivo:
 
-<p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</br></br>En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
+<p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</p>
+
+#### Usuario Intermediario
+
+#### Análisis objetivo:
+
+
+<p align="justify">La comunicación con el cliente es un aspecto fundamental para el éxito de la aplicación, por lo que los intermediarios deben cumplir como un canal de comunicación entre clientes y empresas de alquiler. Por lo que una plataforme de comunicación conjunta donde las 3 partes puedan visualizar las publicaciones, registros y disponibilidad falicitaria el acceso y desempeño de los intermediarios.</br></br> Así mismo, se ha identificado la automatización de algunos procesos del registro de eventos, ya que se es pezado estar al pendiente en horas de la madrugada para realizar manualmente el registro. De igual manera, se requiere una comunicación y disponibilidad de afiliación de empresas para ayudar en generar historial de contrato para los intermediarios.</p>
+
+
+#### Conclusión:
+
+<p align="justify">En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
+
+
 
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 
@@ -718,6 +746,18 @@ Needfinding es un paso esencial que implica la búsqueda y comprensión de las n
 
 <div align="center">
    <img src="static/needfinding/User-Persona-Cliente-Matthew-Lopez.png">
+</div>
+
+#### Intermediario
+
+Jessica Morales
+<div align="center">
+   <img src="static/needfinding/Jessica-User-persona.png">
+</div>
+
+Meyling Rojas
+<div align="center">
+   <img src="static/needfinding/Meyling-User persona.png">
 </div>
 
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
@@ -832,6 +872,17 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
    <img src="./static/needfinding/customer-journey-map.png">
 </div>
 
+#### **Segmento 2:** Intermediaria Jessica que realiza el registro de eventos
+<div align="center">
+   <img src="./static/needfinding/Jessica-journey map.png">
+</div>
+
+####  Intermediaria Meyling que realiza el contacto del cliente y la empresa de alquiler
+<div align="center">
+   <img src="./static/needfinding/Meyling-journey map.png">
+</div>
+
+
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 
 En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que nos dirigimos. Utilizamos esta herramienta para identificar a nuestra audiencia objetivo, comprender su contexto y sus requerimientos, lo que nos permite ver el mundo desde su punto de vista.
@@ -840,6 +891,19 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 
 <div align="center">
    <img src="./static/needfinding/cliente-empathy-map.png">
+</div>
+
+#### Intermediario
+
+Jessica
+<div align="center">
+   <img src="./static/needfinding/Jessica-Empathy map.png">
+</div>
+
+Meyling
+
+<div align="center">
+   <img src="./static/needfinding/Meyling-Empathy map.png">
 </div>
 
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
