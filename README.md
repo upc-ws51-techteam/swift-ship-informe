@@ -104,8 +104,6 @@
 <il><h3><a href="#impact-mapping">3.3. Impact Mapping</a></h3></il>
 <il><h3><a href="#product-backlog">3.4. Product Backlog</a></h3></il>
 
-
-
 <il><h1><a href="#capitulo-4">Capítulo IV: Product Design</a></h1></il>
 <il><h3><a href="#style-guidelines">4.1. Style Guidelines</a></h3></il>
 
@@ -177,44 +175,6 @@
 
 </br>
 </br>
-
-# Student Outcome
-
-## ABET – EAC - Student Outcome 3
-
-<div align="center">
-   <table>
-      <thead>
-         <tr>
-            <th style="text-align: center;">Criterio específico</th>
-            <th style="text-align: center;">Acciones realizadas</th>
-            <th style="text-align: center;">Conclusiones</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td rowspan="6" style="text-align: justify;">Capacidad de comunicarse efectivamente con un rango de audiencias</td>
-         </tr>
-         <tr>
-            <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>En el contexto de esta entrega, he estado plenamente involucrado y he compartido de forma proactiva mis progresos en la redacción del proyecto. Asimismo, se llevaron a cabo diversas reuniones para intercambiar ideas y asignar las responsabilidades necesarias.</td>
-            <td rowspan="6" style="text-align: justify;">La habilidad de contribuir de manera efectiva en equipos que reúnen diversas disciplinas es fundamental para el triunfo de los proyectos en el ámbito de soluciones de ingeniería de software. La efectividad, productividad y enfoque en la cooperación pueden elevar la excelencia del producto final y la satisfacción del cliente. Por lo tanto, resulta esencial que los ingenieros de software cultiven competencias en comunicación, colaboración y trabajo en equipo para alcanzar un rendimiento máximo en un entorno laboral que involucra múltiples disciplinas.</td>
-         </tr>
-         <tr>
-            <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo del Capítulo I, As-is scenario mapping, el desarrollo del ppt, style guidelines, entre otras cosas junto con mis compañeros.</td>
-         </tr>
-         <tr>
-            <td><strong>Gianfranco Luna Morales</br>TB1:</strong></br>Entrevista
-Diseño de entrevistas
-Information Architecture</td>
-         </tr>
-         <tr>
-           <td><strong>Lorenzo Sebastian Navarro Robles</br>TB1:</strong></br>Puntos del cap 3
-           </td>
-         </tr>
-      </tbody>
-   </table>
-</div>
-
 </br>
 </br>
 
