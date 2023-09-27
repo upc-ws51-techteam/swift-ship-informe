@@ -287,83 +287,83 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
             <td style="text-align: center">Frecuencia</td>
             <td style="text-align: center">Importancia</td></tr>
          <tr>
-            <td style="text-align: center">Búsqueda de Embarcaciones</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">A veces</td>
-            <td style="text-align: center">Baja</td></tr>
+            <td style="text-align: center">Buscar un alquiler de barcos en medios digitales</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">Medium</td>
+            <td style="text-align: center">Rarely</td>
+            <td style="text-align: center">Medium</td></tr>
          <tr>
-            <td style="text-align: center">Filtrar y Comparar</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Media</td>
-            <td style="text-align: center">A veces</td>
-            <td style="text-align: center">Baja</td></tr>
+            <td style="text-align: center">Llamar a empresas de alquiler de barcos</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td></tr>
          <tr>
-            <td style="text-align: center">Realizar Reservas</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Nunca</td>
-            <td style="text-align: center">Media</td></tr>
+            <td style="text-align: center">Alquilar un barco</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td></tr>
          <tr>
-            <td style="text-align: center">Comunicación con Propietarios</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Nunca</td>
-            <td style="text-align: center">Baja</td></tr>
+            <td style="text-align: center">Dar a conocer sus requerimientos de la embarcación</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">Medium</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">Medium</td></tr>
          <tr>
-            <td style="text-align: center">Evaluación y Reseñas</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">Realizar el recojo de la embarcación</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td></tr>
          <tr>
-            <td style="text-align: center">Registro de Embarcaciones</td>
-            <td style="text-align: center">Nunca</td>
-            <td style="text-align: center">Bajo</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">Pedir el catalogo de barcos</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">Medium</td></tr>
          <tr>
-            <td style="text-align: center">Gestión de Calendario</td>
-            <td style="text-align: center">A veces</td>
-            <td style="text-align: center">Bajo</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">Atender a personas interesadas en alquilar un barco</td>
+            <td style="text-align: center">Rarely</td>
+            <td style="text-align: center">Low</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td></tr>
          <tr>
-            <td style="text-align: center">Comunicación con Clientes</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">A veces</td>
-            <td style="text-align: center">Media</td></tr>
+            <td style="text-align: center">Recibir llamadas de posibles clientes</td>
+            <td style="text-align: center">Rarely</td>
+            <td style="text-align: center">Low</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td></tr>
          <tr>
-            <td style="text-align: center">Aprobación de Reservas</td>
-            <td style="text-align: center">Nunca</td>
-            <td style="text-align: center">Media</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">Agendar citas con los clientes</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">Medium</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">Medium</td></tr>
          <tr>
-            <td style="text-align: center">Mantenimiento y Seguridad</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">LLamar para cancelar la cita</td>
+            <td style="text-align: center">Rarly</td>
+            <td style="text-align: center">Medium</td>
+            <td style="text-align: center">Rarely</td>
+            <td style="text-align: center">High</td></tr>
             <tr>
-            <td style="text-align: center">Seguimiento de Evaluaciones</td>
-            <td style="text-align: center">A veces</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Media</td></tr>
+            <td style="text-align: center">Identificar la mejor embarcacion para el cliente en base a sus requerimientos</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">Medium</td></tr>
             <tr>
-            <td style="text-align: center">Soporte al Client</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">Brindar una demostración de los medios de seguridad</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Often</td>
+            <td style="text-align: center">High</td></tr>
             <tr>
-            <td style="text-align: center">Manejo de Pagos</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td>
-            <td style="text-align: center">Siempre</td>
-            <td style="text-align: center">Alta</td></tr>
+            <td style="text-align: center">Acordar pago</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td>
+            <td style="text-align: center">Always</td>
+            <td style="text-align: center">High</td></tr>
       </tbody>
    </table>
 </div>
