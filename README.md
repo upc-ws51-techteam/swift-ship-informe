@@ -24,8 +24,6 @@
 | Sebastian Alonso Bustinza Muñoz  | U202123362 |
 | Gianfranco Luna Morales          | U201824343 |
 
-<p align="center"><strong>Organización GitHub: </strong> <a href="https://github.com/upc-ws51-techteam" target="_blank">Tech-Team-Swift-Ship</a></p>
-
 </div>
 </br>
 
@@ -51,6 +49,32 @@
         </tbody>
     </table>
 
+</br>
+
+<h1 align="center">Project Report Collaboration Insights</h1>
+   </br>
+   
+   Repositorio GitHub: <a href="https://github.com/upc-ws51-techteam">https://github.com/upc-ws51-techteam</a>
+   
+   <!-- TB1 Content -->
+   
+   <strong>TB1:</strong>
+
+Actividades de Elaboración del Informe:
+
+<div align="center">
+
+</div>
+
+   <!-- TP Content -->
+
+<strong>TP:</strong>
+
+Actividades de Elaboración del Informe:
+
+<div align="center">
+
+</div>
 </br>
 
 <h1 align="center">Swift Ship</h1>
