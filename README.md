@@ -171,35 +171,17 @@
          <il><h3><a href="#team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
    </ul>
+   <ul>
+      <il><h3><a href="#sprint-2">5.2.2. Sprint 2</a></h3></il>
+      <ul>
+         <il><h3><a href="#sprint-planning-2">5.2.2.1. Sprint Planning 2</a></h3></il>
+         <il><h3><a href="#sprint-backlog-2">5.2.2.2. Sprint Backlog 2</a></h3></il>
+         <il><h3><a href="#development-evidence-for-sprint-review-2">5.2.2.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="#testing-suite-rvidence-for-sprint-review-2">5.2.2.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="#execution-evidence-for-sprint-review-2">5.2.2.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="#services-documentation-evidence-for-sprint-review-2">5.2.2.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="#software-deployment-evidence-for-sprint-review-2">5.2.2.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="#team-collaboration-insights-during-sprint-2">5.2.2.8. Team Collaboration Insights during Sprint</a></h3></il>
+      </ul>
+   </ul>
 </ul>
-
-</br>
-</br>
-</br>
-</br>
-
-</br>
-
-<h1><a id="capitulo-5">Capítulo V: Product Implementation, Validation & Deployment</a></h1>
-<h3><a id="software-configuration-management">5.1. Software Configuration Management</a></h3>
-<h3><a id="software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></h3>
-<h3><a id="source-code-management">5.1.2. Source Code Management</a></h3>
-
-Usamos gitflow para gestionar el codigo fuente.
-
-<img src="static/git-flow/Screenshot from 2023-09-09 17-44-59.png" align="center">
-</br></br>
-<img src="static/git-flow/Screenshot from 2023-09-09 17-55-30.png" align="center">
-
-<h3><a id="source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></h3>
-<h3><a id="software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3>
-<h3><a id="landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></h3>
-<h3><a id="sprint-1">5.2.1. Sprint 1</a></h3>
-<h3><a id="sprint-planning-1">5.2.1.1. Sprint Planning 1</a></h3>
-<h3><a id="sprint-backlog-1">5.2.1.2. Sprint Backlog 1</a></h3>
-<h3><a id="development-evidence-for-sprint-review">5.2.1.3. Development Evidence for Sprint Review</a></h3>
-<h3><a id="testing-suite-rvidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3>
-<h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></h3>
-<h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
-<h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
-<h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
