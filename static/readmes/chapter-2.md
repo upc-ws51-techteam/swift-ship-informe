@@ -175,8 +175,12 @@
 **Preguntas generales:**
 
 1. ¿Cuál es tu nombre y edad?
-2. ¿A qué te dedicas actualmente?
-3. ¿Cuáles son las redes que más usas?
+2. ¿En que distrito vives?
+3. ¿A qué te dedicas actualmente?
+4. ¿Cuáles son las redes que más usas?
+5. ¿Qué tipo de dispositivo móvil usas?
+6. ¿De qué sistema operativo es la computadora o laptop que utilizas?
+7. ¿Cuál es el buscador que utilizas en tus dispositivos?
 
 **Preguntas Específicas para Clientes:**
 
@@ -195,7 +199,7 @@
 4. ¿Cuál es el procedimiento ante algún accidente o evento ambiental?
 5. ¿Consideras factible una aplicación donde puedas encontrar tanto clientes mineras y empresas de alquiler de barcos?
 
-<h3 id="registro-de-entrevistas"><a>2.2.2. Registro de entrevistas</a></h3>
+<h3 id="registro-de-entrevistas">2.2.2. Registro de entrevistas</h3>
 
 ### **Usuario cliente**
 
