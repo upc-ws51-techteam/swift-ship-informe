@@ -376,7 +376,7 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
    <img src="../img/chapter-2/client-journey-map.png">
 </div>
 
-<h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
+<h3 id="empathy-mapping">2.3.4. Empathy Mapping</h3>
 
 En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que nos dirigimos. Utilizamos esta herramienta para identificar a nuestra audiencia objetivo, comprender su contexto y sus requerimientos, lo que nos permite ver el mundo desde su punto de vista.
 
@@ -387,4 +387,7 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
 </div>
 
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
-<img src="../img/chapter-2/as-is.jpg">
+<h4>Segmento 1. Cliente que reservara la embarcacion</h2>
+<img src="../img/chapter-2/client-as-is.jpg" align="center">
+<h4>Segmento 2. Dueño de una embarcacion</h4>
+<img src="../img/chapter-2/boat-owner-as-is.jpg" align="center">
