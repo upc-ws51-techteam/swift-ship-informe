@@ -1,6 +1,6 @@
-<h1><a id="capitulo-1">Capítulo I: Introducción</a></h1>
-<h3><a id="startup-profile">1.1. Startup Profile</a></h2>
-<h3><a id="descripcion-startup">1.1.1. Descripción de la Startup</a></h3>
+<h1 id="capitulo-1">Capítulo I: Introducción</h1>
+<h3 id="startup-profile"></h3>1.1. Startup Profile</h2>
+<h3 id="descripcion-startup">1.1.1. Descripción de la Startup</h3>
 <div align="justify">
 En la actualidad, el alquiler de embarcaciones se ha convertido en una opción de ocio y turismo cada vez más popular debido a una serie de tendencias y factores relevantes como el turismo local, tendencia de experiencias, accesibilidad financiera, avances tecnológicos, etc.
 </br>
@@ -10,7 +10,7 @@ Swift Ship es una emocionante empresa de alquiler de embarcaciones que ofrece a 
 </br>
 Nuestra vision es querer posicionarnos como líderes en el mercado de alquiler de embarcaciones en Lima y expandirnos a otras regiones costeras. Además, estamos comprometidos con la sostenibilidad y la conservación marina, trabajando para minimizar nuestro impacto ambiental y apoyar proyectos de preservación.
 </div>
-<h3><a id="perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</a></h3>
+<h3 id="perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</h3>
 Somos un equipo apasionado de entusiastas de la navegación, emprendedores y expertos en tecnología que trabajan juntos para ofrecer experiencias inolvidables en el agua y aprovechar las oportunidades en el mercado de alquiler de embarcaciones.
 </br>
 </br>
@@ -27,25 +27,25 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
       </thead>
       <tbody>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/adrian-melgar.jpeg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="../img/teams-photos/adrian-melgar.jpeg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Adrian Melgar</td>
             <td tyle="text-align: justify;">Soy estudiante de Ingeniería de Software en la UPC y, actualmente, me encuentro interesado en temas relacionados con el manejo de datos. Además de mis estudios, disfruto jugando videojuegos y cocinando. Dentro de nuestro grupo, siempre me esfuerzo por brindar apoyo y fomentar una comunicación constante entre los miembros.</td>
             <td style="text-align: center;">U201819465</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/sebastian.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="../img/teams-photos/sebastian.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Sebastian Bustinza</td>
             <td style="text-align: justify;">Mi nombre es Diego Acuña Gomez, resido en Lima y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente 7mo ciclo. Considero que tengo habilidades en programación con C++, Javascript y Python. Me comprometo a ayudar al trabajo y desarrollo de nuestro trabajo.</td>
             <td style="text-align: center;">U202123362</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="../img/teams-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Gianfranco Luna</td>
             <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
             <td style="text-align: center;">U201824343</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="./static/teams-photos/lorenzo.png" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="../img/teams-photos/lorenzo.png" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Lorenzo Navarro</td>
             <td style="text-align: justify;">Estudiante de ingenieria de software. Actualmente enfocado en desarrollo movil y backend. En busqueda de mi primer internship y dispuesto a competir siempre en un nivel alto. </td>
             <td style="text-align: center;">U201713141</td>
@@ -55,8 +55,8 @@ Somos un equipo apasionado de entusiastas de la navegación, emprendedores y exp
 </div>
 </br>
 
-<h3><a id="solution-profile">1.2. Solution Profile</a></h3>
-<h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
+<h3 id="solution-profile">1.2. Solution Profile</h3>
+<h3 id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</h3>
 <strong>What - ¿Cuál es el problema?</strong>
 El problema que hemos identificado es que, a pesar de que muchas personas anhelan experimentar la emoción de navegar y disfrutar de aventuras acuáticas, enfrentan obstáculos significativos para hacerlo. La adquisición de una embarcación es costosa y puede ser un compromiso financiero abrumador. Esto limita el acceso a la navegación y la exploración de entornos acuáticos impresionantes.<br>
 <strong>When - ¿Cuándo sucede el problema?</strong>Este problema surge cada vez que alguien sueña con escapar a las aguas y experimentar la belleza del mar, los ríos o los lagos, pero se enfrenta a las barreras financieras y logísticas que impiden que ese sueño se haga realidad.<br>
@@ -72,15 +72,15 @@ Aquellos que desean probar diferentes tipos de embarcaciones antes de tomar una 
 <br>
 <strong>How much- ¿Cuál es la magnitud del problema?</strong>Según datos recopilados, se estima que un gran porcentaje de entusiastas de la navegación y viajeros potenciales se ven afectados por esta barrera financiera. A nivel global, la falta de acceso a embarcaciones puede limitar la participación en actividades acuáticas y la exploración de hermosos destinos costeros, lo que representa un mercado insatisfecho y un potencial de crecimiento significativo para nuestro servicio de alquiler de embarcaciones.</br>
 
-<h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
-<h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
+<h3 id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
+<h3 id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
 En el contexto de la industria de alquiler de embarcaciones, enfrentamos una serie de desafíos significativos que afectan la experiencia de los clientes y la adopción de nuestro servicio. Los problemas predominantes incluyen la falta de acceso conveniente a una variedad de embarcaciones, la falta de información clara sobre las opciones disponibles, la complejidad de las reservas y la falta de orientación personalizada para los clientes. <br>
 Esto lleva a una problemática importante: muchas personas se sienten abrumadas y desinformadas al planificar una experiencia de alquiler de embarcaciones, lo que disminuye su satisfacción y puede llevar a una disminución en la demanda de servicios de alquiler de embarcaciones.
 </br>
 </br>
 El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las personas tengan acceso fácil a una variedad de embarcaciones de calidad, reciban información clara sobre las opciones disponibles y disfruten de una experiencia de alquiler de embarcaciones sin problemas y altamente personalizada? ¿Cómo podemos simplificar el proceso y brindar orientación a los clientes para que tengan una experiencia excepcional en el agua?
 
-<h3><a id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a></h3>
+<h3 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</h3>
 <div align='justify'>
 <h4>Bussines Outcomes</h4>
 <div align='justify'>
@@ -197,7 +197,7 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
    </li>
 </ol>
 </div>
-<h3><a id="lean-ux-hypothesis-statement">1.2.2.3. Lean UX Hypothesis Statements</a></h3>
+<h3 id="lean-ux-hypothesis-statement">1.2.2.3. Lean UX Hypothesis Statements</h3>
 <div align="justify">
  <ul>
     <li>
@@ -222,15 +222,15 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
         </ul>
     </li>
 </ul>
-<h3><a id="lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></h3>
+<h3 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas</h3>
 <div align="center">
- <img src="./static/UX CANVAS.png" >
+ <img src="../img/chapter-1/ux-canvas.png" >
 <br>
   <a href="https://app.mural.co/t/works0599/m/works0599/1694192145971/9dc9c675bdf05a7bbb816f8a45b1bc96a325cfca?sender=u02657958e0bf79f3c7e04296 ">Enlace al Mural</a>
 
 </div>
 
-<h3><a id="segmento-objetivo">1.3. Segmentos objetivo</a></h3>
+<h3 id="segmento-objetivo">1.3. Segmentos objetivo</h3>
 En la actualidad, el alquiler de embarcaciones se ha convertido en una opción de ocio y turismo cada vez más popular debido a una serie de tendencias y factores relevantes como el turismo local, tendencia de experiencias, accesibilidad financiera, avances tecnológicos, etc.
 <br><br>
 1. Clientes que desean disfrutar de una experiencia de alquiler de embarcaciones única y personalizada, ya sea para la navegación recreativa, la pesca o cualquier otra actividad en el agua.<br><br>
