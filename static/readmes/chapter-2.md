@@ -232,7 +232,7 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 </p>
 </div>
 
-### **Usuario otro**
+### **Usuario propietarios de embarcaciones**
 
 <h4>Entrevista 1</h4>
 
@@ -246,7 +246,7 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 <p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Jessica Morales</a></p>
 <p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
 </div>
-<h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
+<h3 id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</h3>
 
 Después de llevar a cabo las entrevistas planificadas con el cliente y los alquiladores de barcos, hemos recopilado información valiosa para el proyecto actual.
 
@@ -256,23 +256,23 @@ Después de llevar a cabo las entrevistas planificadas con el cliente y los alqu
 
 <p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</br></br>En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
 
-<h3><a id="needfinding">2.3. Needfinding</a></h3>
+<h3 id="needfinding">2.3. Needfinding</h3>
 
 Needfinding es un paso esencial que implica la búsqueda y comprensión de las necesidades del mercado. Identificar estas necesidades a través de la investigación nos permite generar soluciones innovadoras basadas en las demandas concretas de los usuarios.
 
-<h3><a id="user-personas">2.3.1. User Personas</a></h3>
+<h3 id="user-personas">2.3.1. User Personas</h3>
 
 #### Cliente
 
 <div align="center">
-   <img src="static/needfinding/User-Persona-Cliente-Matthew-Lopez.png">
+   <img src="../img/chapter-2/client-user-persona.png">
 </div>
 
-<h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
+<h3 id="user-task-matrix">2.3.2. User Task Matrix</h3>
 
 Se efectúa un análisis de las funciones clave identificadas en la problemática, fundamentado en los comentarios recopilados de los dos grupos de usuarios: Cliente y Dueño de barcos.
 
-<div align="center">
+<div style="text-align:right;align-items:center;justify-content:center;">
    <table>
       <thead>
          <tr>
@@ -372,7 +372,7 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
    </table>
 </div>
 
-<h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
+<h3 id="user-journey-mapping">2.3.3. User Journey Mapping</h3>
 
 #### **Segmento 1:** Cliente que desea alquilar un barco
 
@@ -380,7 +380,7 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
    <img src="../img/chapter-2/client-journey-map.png">
 </div>
 
-<h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
+<h3 id="empathy-mapping">2.3.4. Empathy Mapping</h3>
 
 En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que nos dirigimos. Utilizamos esta herramienta para identificar a nuestra audiencia objetivo, comprender su contexto y sus requerimientos, lo que nos permite ver el mundo desde su punto de vista.
 
@@ -390,5 +390,5 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
    <img src="../img/chapter-2/client-empathy-map.png">
 </div>
 
-<h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
+<h3 id="as-is">2.3.5. As-is Scenario Mapping</h3>
 <img src="../img/chapter-2/as-is.jpg">
