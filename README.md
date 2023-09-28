@@ -96,6 +96,46 @@
                <td>Navarro, Lorenzo</td>
                <td>Mejora continua:Software Architecture Component & Impact Mapping cliente y owner</td>   
             </tr>
+            <tr>
+               <th rowspan="2">1.6</th>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Lean UX Problem Statements</td>   
+            </tr>
+            <tr>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Lean UX Assumptions</td>   
+            </tr>
+             <tr>
+               <th rowspan="2">1.7</th>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Lean UX Hypothesis Statements</td>   
+            </tr>
+            <tr>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Lean UX Canvas</td>   
+            </tr>
+            <tr>
+               <th rowspan="2">1.8</th>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Web Application UX/UI Design</td>   
+            </tr>
+            <tr>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Web Application Wireframes</td>   
+            </tr>
+            <tr>
+               <th rowspan="2">1.9</th>
+               <td>28/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Mejora continua:Web Application Mock-ups</td>   
+            </tr>
+           
         </tbody>
     </table>
 
