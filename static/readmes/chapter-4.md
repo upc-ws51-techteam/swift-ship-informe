@@ -115,10 +115,50 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 </br></br>
 <p align="left"><strong>URL: </strong> <a href="https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page" target="_blank">Swift Ship Figma</a></p>
 <h3 id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</h3>
+En esta seccion, se presentara los wireframes y mockups de la propuesta visual y de interacción de nuestro producto,
+Swiftship
 <h3 id="web-applications-wireframes">4.4.1. Web Applications Wireframes</h3>
+
+
+Se presenta el diseño visual y de interacción en formato de wireframes de nuestro producto digital.
+
+<img src="../img/chapter-4/Wireframes.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Wireframes2.PNG">
+</br></br>
+<img src="../img/chapter-4/Wireframes3.PNG">
+</br></br>
+<img src="../img/chapter-4/Wireframes4.PNG">
+</br></br>
+<img src="../img/chapter-4/Wireframes5.PNG">
+</br></br>
 <h3 id="web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</h3>
 <h3 id="web-applications-mock-ups">4.4.2. Web Applications Mock-ups</h3>
+Se presenta el diseño visual y de interacción de formato de mockups de nuestro producto gigital
 
+<img src="../img/chapter-4/Mockup.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Mockup2.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Mockup3.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Mockup4.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Mockup5.PNG">
+</br></br>
+<img src="../img/chapter-4/Mockup6.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Mockup7.PNG">
+</br></br>
+
+<img src="../img/chapter-4/Mockup8.PNG">
+</br></br>
 <h3 id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</h3>
 <h3 id="web-applications-prototyping">4.5. Web Applications Prototyping</h3>
 <h3 id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</h3>

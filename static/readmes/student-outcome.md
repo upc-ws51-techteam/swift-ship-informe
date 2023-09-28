@@ -41,9 +41,10 @@
          <tr>
             <td><strong>Gianfranco Luna Morales
             </br>TB1:</strong></br>
-            Entrevista Diseño de entrevistas Information Architecture
+            Entrevista Diseño de entrevistas Information Architecture: Se comunicaron las entrevistas al grupo para su validación.
+            Se actualizó el segmento objetivode Intermediario.
             </br><strong>TP:</strong></br>
-            En ...
+            Se comunicaron las dificultades al diseñar los Wireframes y Mockups, reforcé mi rendimiento y mis ideas fueron aceptadas.
             </td>
          </tr>
          <tr>
@@ -82,9 +83,9 @@
          <tr>
             <td><strong>Gianfranco Luna Morales
             </br>TB1:</strong></br>
-            Entrevista ...
+            Para optimizar la información de las entrevistas se informó a los entrevistados la idea de la aplicación y qué beneficios podrías brindarles.
             </br><strong>TP:</strong></br>
-            En ...
+            Al crear las ramas, se origina un mejor rendimiento y organización del equipo donde cada dificultad es atendida a su tiempo. Se crearon varias ramas optimizando el orden de cada capítulo.
             </td>
          </tr>
          <tr>
