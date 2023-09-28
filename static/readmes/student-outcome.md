@@ -83,9 +83,9 @@
          <tr>
             <td><strong>Gianfranco Luna Morales
             </br>TB1:</strong></br>
-            Entrevista ...
+            Para optimizar la información de las entrevistas se informó a los entrevistados la idea de la aplicación y qué beneficios podrías brindarles.
             </br><strong>TP:</strong></br>
-            En ...
+            Al crear las ramas, se origina un mejor rendimiento y organización del equipo donde cada dificultad es atendida a su tiempo. Se crearon varias ramas optimizando el orden de cada capítulo.
             </td>
          </tr>
          <tr>
