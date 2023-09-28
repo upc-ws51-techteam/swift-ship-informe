@@ -149,7 +149,7 @@ Este problema se presenta tanto en el lado de la oferta, donde los propietarios 
   <li><strong>Resolveremos esto a través de</strong> un desarrollo continuo de la plataforma, pruebas de usabilidad y medidas de seguridad sólidas para proteger la privacidad de los usuarios y la integridad de sus datos.
 </li>
 </ol>
-
+<br>
 <h4>Suposiciones de usuario</h4>
 <div align='justify'>
 <ol>
