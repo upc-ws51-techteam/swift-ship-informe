@@ -41,9 +41,10 @@
          <tr>
             <td><strong>Gianfranco Luna Morales
             </br>TB1:</strong></br>
-            Entrevista Diseño de entrevistas Information Architecture
+            Entrevista Diseño de entrevistas Information Architecture: Se comunicaron las entrevistas al grupo para su validación.
+            Se actualizó el segmento objetivode Intermediario.
             </br><strong>TP:</strong></br>
-            En ...
+            Se comunicaron las dificultades al diseñar los Wireframes y Mockups, reforcé mi rendimiento y mis ideas fueron aceptadas.
             </td>
          </tr>
          <tr>
