@@ -144,6 +144,31 @@ En esta seccion se presentan los diagramas de la arquitectura de software con ap
    Enlace del <a href="https://lucid.app/lucidchart/606c6a40-b4fb-4e14-8776-22f4ed6201a9/edit?viewport_loc=-806%2C-1462%2C5900%2C4094%2C0_0&invitationId=inv_de107ff1-d207-45e1-af65-03dbb1e72a67" target="_blank">Object-Oriented Class Diagram</a>
 </div>
 <h3 id="class-dictionary">4.7.2. Class Dictionary</h3>
+En esta sección se presenta el diccionario de clases que se utilizan para el desarrollo de nuestra solución
+- <strong>User</strong>: representa a nuestros usuarios en la plataforma, contiene atributos y metodos relacionados con la gestión de información personal y de sesión.
+<br>
+- <strong>Customer</strong>: representa a los clientes que hacen reserva de embarcaciones dentro de nuestra aplicación. Contiene métodos que permite ver información sobre las reservas que se realice.
+<br>
+- <strong>Owner</strong>: representa a los dueños de las embarcaciones. Esta clase incluye métodos de gestión de sus publicaciones para poder crear anuncios cada vez que el dueño lo quiera.
+<br>
+- <strong>Review</strong>: representa la calificación y experiencia que se le puede asignar tanto a cualquiera de nuestros dos segmentos objetivos así como cualquier embarcación.
+<br>
+- <strong>Card</strong>: representa la información bancaria de nuestros dos segmentos objetivos, la información relevante de esta clase es el numero de serie de su tarjeta, cvv y fecha de expiración.
+<br>
+- <strong>Transaction</strong> : representa a la información relevante de pago al momento que ya se estableció una fecha y tipo de embarcación. Su contenido más importante es el id de la transacción, el monto y la persona que lo recibió.
+<br>
+- <strong>Receipt</strong> : representa al comprobante de la transacción que el usuario realiza al completar el proceso de pago de la solicitud de reserva de la embaracación.
+<br>
+- <strong>RentRequest</strong>: representa al proceso que se inicia cuando un usuario quiere reservar una embarcación y presiona el boton de reservar. Primero tendría que seleccionar las fechas disponibles y el proceso empieza a ejecutarse.
+<br>
+- <strong>Location</strong>: representa los detalles de los puntos de localización disponibles para cada una de las embarcaciones. 
+<br>
+- <strong>BoatCreator</strong>: representa los detalles del bote que está reservando el cliente. En este caso se dan a conocer sus especificaciones antes de poder iniciar una reserva.
+<br>
+- <strong>RentingHistory</strong>: representa al historial de reserva que cada cliente pueda tener durante su uso de la aplicación. Cambia su contenido cuando realiza una nueva solicitud de reserva y termina pagandola de forma exitosa.
+<br>
+- <strong>ChatHistory</strong>: representa a todo el contenido de comunicación disponible en la cuenta de cualquier usuario. 
+
 <h3 id="database-design">4.8. Database Design</h3>
 <h3 id="database-diagram">4.8.1. Database Diagram</h3>
 <div align="center">
