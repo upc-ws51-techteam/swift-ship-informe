@@ -138,6 +138,11 @@ En esta seccion se presentan los diagramas de la arquitectura de software con ap
 <h3 id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</h3>
 <h3 id="software-object-oriented-design">4.7. Software Object-Oriented Design</h3>
 <h3 id="class-diagrams">4.7.1. Class Diagrams</h3>
+<div align="center">
+   <img src="../img/chapter-4/Class Diagram .png">
+   <br>
+   Enlace del <a href="https://lucid.app/lucidchart/606c6a40-b4fb-4e14-8776-22f4ed6201a9/edit?viewport_loc=-806%2C-1462%2C5900%2C4094%2C0_0&invitationId=inv_de107ff1-d207-45e1-af65-03dbb1e72a67" target="_blank">Object-Oriented Class Diagram</a>
+</div>
 <h3 id="class-dictionary">4.7.2. Class Dictionary</h3>
 <h3 id="database-design">4.8. Database Design</h3>
 <h3 id="database-diagram">4.8.1. Database Diagram</h3>
