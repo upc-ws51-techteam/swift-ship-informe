@@ -270,4 +270,28 @@ Realizar pruebas exhaustivas y depuración (debugging) para identificar y correg
 Estas son las pautas generales que se deben seguir al utilizar JavaScript en nuestro proyecto. El uso adecuado de JavaScript permitirá crear interacciones dinámicas y mejorar la experiencia del usuario en la plataforma web.
 
 <h3 id="software-deployment-configuration">5.1.4. Software Deployment Configuration</h3>
+
+Como se mencionó previamente, la gestión de nuestro código fuente se llevará a cabo a través de GitHub, y utilizaremos GitHub Pages para la publicación y despliegue de la página.
+
+Para el desarrollo del Landing Page de Swift Ship, se han empleado las siguientes herramientas:
+
+<strong>HTML:</strong> Este lenguaje de marcado se utilizó para estructurar nuestro Landing Page. Puedes encontrar evidencia de esto en los archivos HTML, siendo el principal "index.html", donde todos los miembros del equipo reunieron el contenido desarrollado en sus ramas individuales.
+La combinación de estas herramientas permitirá la creación y publicación eficiente de la página web de Theraphy.
+
+</br>HTML</br>
+<img src="../img/chapter-5/landing-page.png" align="center">
+</br>CSS</br>
+<img src="../img/chapter-5/css-langing.png" align="center">
+</br>JS</br>
+<img src="../img/chapter-5/js-landing.png" align="center">
+</br>
+
+<h4>Deploy landing page</h4>
+El deploy del landing page se realizo con GitHub pages
+
+<img src="../img/chapter-5/git-hub-pages.png" align="center">
+</br></br>
+<img src="../img/chapter-5/git-flow.png" align="center">
+</br>
+
 <h3 id="landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</h3>
