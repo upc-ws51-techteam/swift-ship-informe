@@ -53,28 +53,48 @@
                 <td>Reestructuración de los archivos README del repositorio.</td>
             </tr>
             <tr>
-                <td>1.2</td>
+                <th rowspan="2">1.2</th>
                 <td>27/09/2023</td>
-                <td>Melgar, Adrian<br>Navarro,Lorenzo</td>
-                <td>Mejora continua: Entrevistas segmento cliente.<br>Mejora continua: To-Be Scenario Mapping segmento cliente y owner</td>
+                <td>Melgar, Adrian</td>
+                <td>Mejora continua: Entrevistas segmento cliente</td>
             </tr>
             <tr>
-                <td>1.3</td>
-                <td>27/09/2023</td>
-                <td>Melgar, Adrian<br>Navarro,Lorenzo</td>
-                <td>Mejora continua: User Task Matrix.<br>Mejora continua: Software Architecture Context & Container Diagram</td>
+               <td>27/09/2023</td>
+               <td>Navarro, Lorenzo</td>
+               <td>Mejora continua: To-Be Scenario Mapping segmento cliente y owner</td>   
             </tr>
             <tr>
-                <td>1.4</td>
+                <th rowspan="2">1.3</th>
                 <td>27/09/2023</td>
-                <td>Melgar, Adrian<br>Navarro,Lorenzo</td>
-                <td>Mejora continua: User Persona segmento cliente.<br>Mejora continua: Software Object-Oriented Design & Database Design</td>
+                <td>Melgar, Adrian</td>
+                <td>Mejora continua: User Task Matrix.</td>
             </tr>
             <tr>
-                <td>1.5</td>
+               <td>27/09/2023</td>
+               <td>Navarro, Lorenzo</td>
+               <td>Mejora continua: Software Architecture Context & Container Diagram</td>   
+            </tr>
+            <tr>
+                <th rowspan="2">1.4</th>
                 <td>27/09/2023</td>
-                <td>Melgar, Adrian<br>Navarro,Lorenzo</td>
-                <td>Desarrollo del as is para el segmento de propietarios de embarcaciones.<br>Mejora continua:Software Architecture Component & Impact Mapping cliente y owner</td>
+                <td>Melgar, Adrian</td>
+                <td>Mejora continua: User Persona segmento cliente.</td>
+            </tr>
+            <tr>
+               <td>27/09/2023</td>
+               <td>Navarro, Lorenzo</td>
+               <td>Mejora continua: Software Object-Oriented Design & Database Design</td>   
+            </tr>
+            <tr>
+                <th rowspan="2">1.5</th>
+                <td>27/09/2023</td>
+                <td>Melgar, Adrian</td>
+                <td>Desarrollo del as is para el segmento de propietarios de embarcaciones.</td>
+            </tr>
+            <tr>
+               <td>27/09/2023</td>
+               <td>Navarro, Lorenzo</td>
+               <td>Mejora continua:Software Architecture Component & Impact Mapping cliente y owner</td>   
             </tr>
         </tbody>
     </table>
