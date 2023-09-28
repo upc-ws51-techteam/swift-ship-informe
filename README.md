@@ -46,6 +46,36 @@
                 <td>Navarro, Lorenzo<br>Melgar, Adrian<br>Luna, Gianfranco<br>Bustinza, Sebastian<br></td>
                 <td>Entrega de la primera versión del trabajo parcial de Aplicaciones Web: Landing Page.</td>
             </tr>
+            <tr>
+                <td>1.1</td>
+                <td>27/09/2023</td>
+                <td>Melgar, Adrian</td>
+                <td>Reestructuración de los archivos README del repositorio.</td>
+            </tr>
+            <tr>
+                <td>1.2</td>
+                <td>27/09/2023</td>
+                <td>Melgar, Adrian</td>
+                <td>Mejora continua: Entrevistas segmento cliente.</td>
+            </tr>
+            <tr>
+                <td>1.3</td>
+                <td>27/09/2023</td>
+                <td>Melgar, Adrian</td>
+                <td>Mejora continua: User Task Matrix.</td>
+            </tr>
+            <tr>
+                <td>1.4</td>
+                <td>27/09/2023</td>
+                <td>Melgar, Adrian</td>
+                <td>Mejora continua: User Persona segmento cliente.</td>
+            </tr>
+            <tr>
+                <td>1.5</td>
+                <td>27/09/2023</td>
+                <td>Melgar, Adrian</td>
+                <td>Desarrollo del as is para el segmento de propietarios de embarcaciones.</td>
+            </tr>
         </tbody>
     </table>
 
