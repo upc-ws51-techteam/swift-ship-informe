@@ -286,7 +286,7 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
             <td rowspan="1" colspan="2" style="text-align: center"> Cliente </td>
             <td rowspan="1" colspan="2" style="text-align: center"> Dueño de barcos </td></tr>
          <tr>
-            <td style="text-align: center">Frecuencia</td>
+            <td style="text-align: center">Frecuencia</td> .
             <td style="text-align: center">Importancia</td>
             <td style="text-align: center">Frecuencia</td>
             <td style="text-align: center">Importancia</td></tr>
@@ -390,10 +390,8 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
    <img src="../img/chapter-2/client-empathy-map.png">
 </div>
 
-
 <h3 id="as-is">2.3.5. As-is Scenario Mapping</h3>
 <h4>Segmento 1. Cliente que reservara la embarcacion</h2>
 <img src="../img/chapter-2/client-as-is.jpg" align="center">
 <h4>Segmento 2. Dueño de una embarcacion</h4>
 <img src="../img/chapter-2/boat-owner-as-is.jpg" align="center">
-
