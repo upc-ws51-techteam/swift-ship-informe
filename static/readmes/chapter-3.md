@@ -21,9 +21,9 @@ Enlace de nuestro <a href="https://miro.com/app/board/uXjVMiY4EcQ=/?share_link_i
 
 <h3 id="impact-mapping">3.3. Impact Mapping</h3>
 <div align="center">
-   <img src="../img/chapter-3/impact-mapping.png">
+   <img src="../img/chapter-3/Impact map Yatch Rent.png">
    <br>
-   Enlace del <a href="https://uxpressia.com/w/qsUXW/i/wQVaJ">Impact Mapping</a>
+   Enlace del <a href="[https://uxpressia.com/w/qsUXW/i/wQVaJ](https://uxpressia.com/w/qsUXW/i/gbjJq)">Impact Mapping</a>
 </div>
 <h3 id="product-backlog">3.4. Product Backlog</h3>
 <div align="center">
