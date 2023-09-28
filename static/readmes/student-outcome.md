@@ -49,9 +49,9 @@
          <tr>
            <td><strong>Lorenzo Sebastian Navarro Robles
            </br>TB1:</strong></br>
-           Puntos del cap 3
+            Durante esta entrega del proyecto, he sabido comunicar oralmente mis ideas mediante herramientas que me permiten mostrar nuestro progreso como equipo. La comunicacion constante de ideas es necesaria para la mejora del producto, yo lo he podido aplicar al momento de hacer la especificacion de requerimientos. El cual me dio un mejor entendimiento de nuestros segmentos objetivos como equipo de ingenieria, y poder comunicarlo a personas de diferentes especialidades.
            </br><strong>TP:</strong></br>
-            En ...
+            Para la segunda entrega del proyecto, he podido reforzar mis aptitudes blandas durante el diseño de arquitectura de software, pude manifestar ideas claras de lo que tenía planeado aportar para mi equipo y poder comunicar soluciones eficacez a personas con diferentes especialidedades.
            </td>
          </tr>
          <tr>
@@ -90,9 +90,9 @@
          <tr>
             <td><strong>Lorenzo Sebastian Navarro Robles
             </br>TB1:</strong></br>
-            Puntos ...
+            Durante la primera entrega, fui capaz de redactar ideas concretas durante el desarrollo de la especificacion de requerimientos, y comunicarlas sin omitir mi marco de desarrollo al momento de explicarselas a una persona de distinta especialidad
             </br><strong>TP:</strong></br>
-            En ...
+            Durante esta entrega, he sabido comunicar las ideas de nuestro proyecto mediante el approach Domain Driven que me permitio establecer la arquitectura de software y poder explicarle a personas de distintos rubros nuestros resultados, sin perder el marco de desarrollo que mi equipo de ingenieria sigue hasta la fecha. Construir los diagramas de arquitectura de software mediante este approach me ayuda a fortalecer mi capacidad de resolucion de problemas y la practica de saber comunicar ideas precisas y eficientes.
             </td>
          </tr>
       </tbody>
