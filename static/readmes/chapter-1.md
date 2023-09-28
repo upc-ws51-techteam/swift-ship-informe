@@ -216,8 +216,8 @@ Este problema se presenta tanto en el lado de la oferta, donde los propietarios 
     <li>
         <strong>3ra Hipótesis:</strong>
         <ul>
-            <li>Al facilitar la comunicación directa entre propietarios de embarcaciones y clientes, reduciremos el número de problemas de comunicación y malentendidos, lo que llevará a una mayor confianza entre ambas partes y, en última instancia, a un aumento en las reservas exitosas.</li>
-        </ul>
+            <li>Al facilitar la comunicación directa entre propietarios de embarcaciones y clientes, reduciremos el número de problemas de comunicación y malentendidos, lo que llevará a una mayor confianza entre ambas partes y, en última instancia, a un aumento en las reservas exitosas.</ul></li>
+         <li>
         <strong>4ta Hipótesis:</strong>
         <ul>
             <li>Al permitir que los clientes hagan un seguimiento de su experiencia de alquiler, dejen comentarios y calificaciones, fomentaremos la mejora continua en la calidad de las embarcaciones y servicios ofrecidos, lo que aumentará la satisfacción del cliente y la reputación de los propietarios.</li>
