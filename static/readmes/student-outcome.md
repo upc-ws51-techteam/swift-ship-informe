@@ -18,16 +18,15 @@
          <tr>
             <td><strong>Adrian Gonzalo Melgar Takahashi
             </br>TB1:</strong></br>
-            En el contexto de esta entrega, he estado plenamente involucrado y he compartido de forma proactiva mis progresos en la redacción del proyecto. Asimismo, se llevaron a cabo diversas reuniones para intercambiar ideas y asignar las responsabilidades necesarias.
+            Me comuniqué oralmente con mi equipo para coordinar qué parte desarrollaría cada uno y las herramientas a usar. Asimismo, realicé entrevistas al segmento objetivo del cliente y desarrollé el capítulo 2.
             </br><strong>TP:</strong></br>
-            En ...
+            Comuniqué al grupo los puntos a desarrollar, así como los puntos que iba completando y las mejoras de la entrega anterior que tenían que ser arregladas.
             </td>
             <td rowspan="4" style="text-align: justify;">
             <strong>TB1:</strong></br>
-            La ...
-            La habilidad de contribuir de manera efectiva en equipos que reúnen diversas disciplinas es fundamental para el triunfo de los proyectos en el ámbito de soluciones de ingeniería de software. La efectividad, productividad y enfoque en la cooperación pueden elevar la excelencia del producto final y la satisfacción del cliente. Por lo tanto, resulta esencial que los ingenieros de software cultiven competencias en comunicación, colaboración y trabajo en equipo para alcanzar un rendimiento máximo en un entorno laboral que involucra múltiples disciplinas.
+            Durante la creación de la TB1, nuestro equipo empleó principalmente la plataforma de WhatsApp como medio de comunicación para coordinar los diversos aspectos a desarrollar y asegurarse de completar cada sección a tiempo.
             </br><strong>TP:</strong></br>
-            La ...
+            El equipo llevó a cabo las reuniones necesarias para asignar las secciones que debían codificarse en el proyecto. Además, mantuvimos una comunicación oral constante, a medida que los miembros informaban sobre el progreso en las partes que les correspondían, así como sobre las mejoras continuas implementadas en base a la entrega anterior.
             </td>
          </tr>
          <tr>
@@ -60,15 +59,15 @@
          <tr>
             <td><strong>Adrian Gonzalo Melgar Takahashi
             </br>TB1:</strong></br>
-            En ...
+            Desarrollé los puntos de entrevista a nuestro segmento objetivo de usuarios y sus análisis correspondientes. También desarrollé el capítulo 2 y codifiqué la landing page.
             </br><strong>TP:</strong></br>
-            En ...
+            Realicé la codificación de las partes de login y register para nuestra app web, así como la implementación de internacionalización del landing page.
             </td>
             <td rowspan="4" style="text-align: justify;">
             <strong>TB1:</strong></br>
-            La ...
+            El equipo utilizó un repositorio en GitHub para llevar a cabo sus avances de manera sincronizada y mantener un historial de las contribuciones de cada miembro.
             </br><strong>TP:</strong></br>
-            La ...
+            Cada miembro tenía experiencia en una tecnología diferente, la cual contribuyó al desarrollo e implementación de las tareas del sprint 2.
             </td>
          </tr>
          <tr>
