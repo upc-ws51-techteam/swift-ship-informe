@@ -24,9 +24,9 @@
             </td>
             <td rowspan="4" style="text-align: justify;">
             <strong>TB1:</strong></br>
-            ...
+            Durante la creación de la TB1, nuestro equipo empleó principalmente la plataforma de WhatsApp como medio de comunicación para coordinar los diversos aspectos a desarrollar y asegurarse de completar cada sección a tiempo.
             </br><strong>TP:</strong></br>
-            La ...
+            El equipo llevó a cabo las reuniones necesarias para asignar las secciones que debían codificarse en el proyecto. Además, mantuvimos una comunicación oral constante, a medida que los miembros informaban sobre el progreso en las partes que les correspondían, así como sobre las mejoras continuas implementadas en base a la entrega anterior.
             </td>
          </tr>
          <tr>
@@ -65,9 +65,9 @@
             </td>
             <td rowspan="4" style="text-align: justify;">
             <strong>TB1:</strong></br>
-            La ...
+            El equipo utilizó un repositorio en GitHub para llevar a cabo sus avances de manera sincronizada y mantener un historial de las contribuciones de cada miembro.
             </br><strong>TP:</strong></br>
-            La ...
+            Cada miembro tenía experiencia en una tecnología diferente, la cual contribuyó al desarrollo e implementación de las tareas del sprint 2.
             </td>
          </tr>
          <tr>
