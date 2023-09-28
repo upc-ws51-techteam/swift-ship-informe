@@ -34,7 +34,7 @@
             </br>TB1:</strong></br>
             Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo del Capítulo I, As-is scenario mapping, el desarrollo del ppt, style guidelines, entre otras cosas junto con mis compañeros.
             </br><strong>TP:</strong></br>
-            En ...
+            Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo las mejoras continuas de la entrega pasada, de todo el capitulo 1, la elaboración de Wireframes y Mock-ups y el avance del navbar de la vista notificaciones. Siento que pude aportar más y trabajar más con el equipo. 
             </td>
          </tr>
          <tr>
@@ -73,9 +73,9 @@
          <tr>
             <td><strong>Sebastian Alonso Bustinza Muñoz
             </br>TB1:</strong></br>
-            Para ...
+            Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo del Capítulo I, As-is scenario mapping, el desarrollo del ppt, style guidelines, entre otras cosas junto con mis compañeros.
             </br><strong>TP:</strong></br>
-            En ...
+            Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Asimismo, el desarrollo las mejoras continuas de la entrega pasada, de todo el capitulo 1, la elaboración de Wireframes y Mock-ups y el avance del navbar de la vista notificaciones. Siento que pude aportar más y trabajar más con el equipo. 
             </td>
          </tr>
          <tr>
