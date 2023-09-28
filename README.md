@@ -41,101 +41,119 @@
         </thead>
         <tbody>
             <tr>
-                <td>1.0</td>
+                <th>1.0</th>
                 <td>07/09/2023</td>
-                <td>Navarro, Lorenzo<br>Melgar, Adrian<br>Luna, Gianfranco<br>Bustinza, Sebastian<br></td>
+                <td>TechTeam</td>
                 <td>Entrega de la primera versión del trabajo parcial de Aplicaciones Web: Landing Page.</td>
             </tr>
             <tr>
-                <td>1.1</td>
+                <th>1.1</th>
                 <td>27/09/2023</td>
                 <td>Melgar, Adrian</td>
                 <td>Reestructuración de los archivos README del repositorio.</td>
             </tr>
             <tr>
-                <th rowspan="2">1.2</th>
+                <th>1.2</th>
                 <td>27/09/2023</td>
                 <td>Melgar, Adrian</td>
                 <td>Mejora continua: Entrevistas segmento cliente</td>
             </tr>
             <tr>
+               <th>1.3</th>
                <td>27/09/2023</td>
                <td>Navarro, Lorenzo</td>
                <td>Mejora continua: To-Be Scenario Mapping segmento cliente y owner</td>   
             </tr>
             <tr>
-                <th rowspan="2">1.3</th>
-                <td>27/09/2023</td>
-                <td>Melgar, Adrian</td>
-                <td>Mejora continua: User Task Matrix.</td>
+               <th>1.3</th>
+               <td>27/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora continua: User Task Matrix.</td>
             </tr>
             <tr>
+               <th>1.3</th>
                <td>27/09/2023</td>
                <td>Navarro, Lorenzo</td>
                <td>Mejora continua: Software Architecture Context & Container Diagram</td>   
             </tr>
             <tr>
-                <th rowspan="2">1.4</th>
+                <th>1.4</th>
                 <td>27/09/2023</td>
                 <td>Melgar, Adrian</td>
                 <td>Mejora continua: User Persona segmento cliente.</td>
             </tr>
             <tr>
+               <th>1.5</th>
                <td>27/09/2023</td>
                <td>Navarro, Lorenzo</td>
                <td>Mejora continua: Software Object-Oriented Design & Database Design</td>   
             </tr>
             <tr>
-                <th rowspan="2">1.5</th>
+                <th>1.6</th>
                 <td>27/09/2023</td>
                 <td>Melgar, Adrian</td>
                 <td>Desarrollo del as is para el segmento de propietarios de embarcaciones.</td>
             </tr>
             <tr>
+               <th>1.7</th>
                <td>27/09/2023</td>
                <td>Navarro, Lorenzo</td>
                <td>Mejora continua:Software Architecture Component & Impact Mapping cliente y owner</td>   
             </tr>
             <tr>
-               <th rowspan="2">1.6</th>
+               <th>1.8</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Lean UX Problem Statements</td>   
             </tr>
             <tr>
+               <th>1.9</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Lean UX Assumptions</td>   
             </tr>
              <tr>
-               <th rowspan="2">1.7</th>
+               <th>1.10</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Lean UX Hypothesis Statements</td>   
             </tr>
             <tr>
+               <th>1.11</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Lean UX Canvas</td>   
             </tr>
             <tr>
-               <th rowspan="2">1.8</th>
+               <th>1.12</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Web Application UX/UI Design</td>   
             </tr>
             <tr>
+               <th>1.13</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Web Application Wireframes</td>   
             </tr>
             <tr>
-               <th rowspan="2">1.9</th>
+               <th>1.14</th>
                <td>28/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Mejora continua:Web Application Mock-ups</td>   
             </tr>
-           
+            <tr>
+               <th>1.15</th>
+               <td>28/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora continua: Sprint 1</td>   
+            </tr>
+            <tr>
+               <th>1.16</th>
+               <td>28/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Desarrollo del Sprint 2</td>   
+            </tr>
         </tbody>
     </table>
 
@@ -152,6 +170,25 @@
 
 Actividades de Elaboración del Informe:
 
+Actividades de Elaboración del Informe:
+
+En esta primera entrega del trabajo, el equipo se enfocó en establecer la estructura básica del informe del proyecto en el repositorio de GitHub. Se crearon los siguientes elementos clave:
+
+Estructura del Informe: Se diseñó la estructura general del informe, definiendo las secciones principales que incluirá el documento final, como la introducción, objetivos, metodología, resultados preliminares y conclusiones.
+
+Registro de Versiones: Se configuró un archivo de registro de versiones en el repositorio de GitHub para llevar un seguimiento de los cambios realizados en el informe a lo largo del proyecto.
+
+Capturas de Imagen: Se tomaron capturas de imagen de los análisis de colaboración y commits en GitHub para el repositorio del informe. Estas capturas proporcionan una instantánea de la actividad del equipo en el repositorio durante esta fase inicial del proyecto.
+
+Evidencias:
+
+A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe:
+
+<div align="center">
+   <img src="./static/img/report-colaboration-insights/sprint-1/members.png">
+   <img src="./static/img/report-colaboration-insights/sprint-1/landing-overview.png">
+</div>
+
 <div align="center">
 
 </div>
@@ -162,6 +199,24 @@ Actividades de Elaboración del Informe:
 
 Actividades de Elaboración del Informe:
 
+En la segunda entrega del trabajo, el equipo continuó desarrollando y mejorando el informe del proyecto. Se llevaron a cabo las siguientes actividades:
+
+Desarrollo de Contenido: Se completaron las secciones faltantes del informe, como los resultados detallados, el análisis de datos y las conclusiones finales. Se incorporaron gráficos y tablas para respaldar los hallazgos.
+
+Revisión y Edición: Se realizó una revisión exhaustiva del contenido del informe para asegurarse de que esté claro, coherente y bien estructurado. Se corrigieron errores gramaticales y se mejoró la redacción.
+
+Registro de Versiones: Se mantuvo actualizado el registro de versiones en el repositorio de GitHub para reflejar todos los cambios realizados en el informe desde la primera entrega.
+
+Evidencias:
+
+A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe durante la segunda entrega:
+
+<div align="center">
+   <img src="./static/img/report-colaboration-insights/spint-2/report-overview.png">
+   <img src="./static/img/report-colaboration-insights/spint-2/report-contributors.png">
+   <img src="./static/img/report-colaboration-insights/spint-2/report-network.png">
+</div>
+
 <div align="center">
 
 </div>
@@ -171,6 +226,7 @@ Actividades de Elaboración del Informe:
 </br>
 
 <ul style="list-style-type: none;">
+   <li><h1><a href="./static/readmes/student-outcome.md">Student Outcome</a></h1></li>
    <li><h1><a href="./static/readmes/chapter-1.md#capitulo-1">Capítulo I: Introducción</a></h1></li>
    <li><h3><a href="./static/readmes/chapter-1.md#startup-profile">1.1. Startup Profile</a></h3></li>
    <ul>
