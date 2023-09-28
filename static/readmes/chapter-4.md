@@ -141,3 +141,7 @@ En esta seccion se presentan los diagramas de la arquitectura de software con ap
 <h3 id="class-dictionary">4.7.2. Class Dictionary</h3>
 <h3 id="database-design">4.8. Database Design</h3>
 <h3 id="database-diagram">4.8.1. Database Diagram</h3>
+<div align="center">
+   <img src="../img/chapter-4/database-diagram.png">
+   Enlace del <a href="https://drive.google.com/file/d/1mwNodBR4TPsnHXjihuqTsxCJYA6vmpj4/view?usp=sharing" target="_blank">Database Diagram</a>
+</div>
