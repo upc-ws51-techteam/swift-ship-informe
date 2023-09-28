@@ -175,8 +175,12 @@
 **Preguntas generales:**
 
 1. ¿Cuál es tu nombre y edad?
-2. ¿A qué te dedicas actualmente?
-3. ¿Cuáles son las redes que más usas?
+2. ¿En que distrito vives?
+3. ¿A qué te dedicas actualmente?
+4. ¿Cuáles son las redes que más usas?
+5. ¿Qué tipo de dispositivo móvil usas?
+6. ¿De qué sistema operativo es la computadora o laptop que utilizas?
+7. ¿Cuál es el buscador que utilizas en tus dispositivos?
 
 **Preguntas Específicas para Clientes:**
 
@@ -195,7 +199,7 @@
 4. ¿Cuál es el procedimiento ante algún accidente o evento ambiental?
 5. ¿Consideras factible una aplicación donde puedas encontrar tanto clientes mineras y empresas de alquiler de barcos?
 
-<h3 id="registro-de-entrevistas"><a>2.2.2. Registro de entrevistas</a></h3>
+<h3 id="registro-de-entrevistas">2.2.2. Registro de entrevistas</h3>
 
 ### **Usuario cliente**
 
@@ -203,13 +207,13 @@
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Donny  | Enriquez |  22  |
+| Nombre | Apellido | Edad |  Distrito   |
+| :----- | :------- | :--: | :---------: |
+| Donny  | Enriquez |  22  | La Victoria |
 
 <img src="../img/chapter-2/client-donny-enriquez-interview.png" >
 <p align="left"><strong>URL: </strong> <a href="https://youtu.be/Oe27gjQdHzk" target="_blank">Entrevista Donny Enriquez</a></p>
-<p align="justify">Resumen entrevista: Donny, un estudiante de gastronomía en la USIL, utiliza con mayor frecuencia Instagram, WhatsApp y ocasionalmente Facebook. Donny ha alquilado un barco en el pasado, específicamente para celebrar su cumpleaños. Cuando intentó encontrar un barco para alquilar, enfrentó desafíos considerables y dedicó un tiempo considerable a buscar en diversas plataformas, como Facebook Marketplace, contactos personales y publicaciones en Google.</br></br>Los principales obstáculos que Donny encontró durante su búsqueda incluyeron la falta de coherencia en las fechas de disponibilidad. A veces, las publicaciones indicaban que la embarcación estaba disponible, pero al llamar, se le informaba que ya no lo estaba. Además, Donny buscaba un barco con suficiente capacidad para su fiesta y que permitiera eventos a bordo.</br></br>Al momento de alquilar un barco, Donny se enfoca en el aforo, un precio razonable, el estado de la embarcación, las fechas disponibles y la presencia de medidas de seguridad. Donny considera que nuestra aplicación es revolucionaria y sería de gran ayuda para muchos usuarios. Quedó sorprendido por la falta de información y opciones en línea para el alquiler de barcos, a pesar de que es similar al alquiler de automóviles, que es más fácil de encontrar.</br></br>Donny sugiere que la plataforma debe contar con una amplia selección de proveedores de embarcaciones, y cada proveedor debe ser contactable directamente desde la aplicación. Las publicaciones de las embarcaciones deben incluir información esencial, como el aforo, el precio, la disponibilidad de medidas de seguridad, fotos de la embarcación, reseñas de otros usuarios y un calendario de disponibilidad para evitar confusiones sobre las fechas de alquiler.
+<p align="justify">Resumen entrevista: Donny, un estudiante de gastronomía en la USIL que vive en La Victoria, utiliza con mayor frecuencia Instagram, WhatsApp y ocasionalmente Facebook. Cuenta con un dispositivo móvil Apple y una computadora de escritorio Windows. Para ambos, el buscador Google Chrome es su preferido. Donny ha alquilado un barco en el pasado, específicamente para celebrar su cumpleaños. Cuando intentó encontrar un barco para alquilar, enfrentó desafíos considerables y dedicó un tiempo considerable a buscar en diversas plataformas, como Facebook Marketplace, contactos personales y publicaciones en Google.</br></br>Los principales obstáculos que Donny encontró durante su búsqueda incluyeron la falta de coherencia en las fechas de disponibilidad. A veces, las publicaciones indicaban que la embarcación estaba disponible, pero al llamar, se le informaba que ya no lo estaba. Además, Donny buscaba un barco con suficiente capacidad para su fiesta y que permitiera eventos a bordo.</br></br>Al momento de alquilar un barco, Donny se enfoca en el aforo, un precio razonable, el estado de la embarcación, las fechas disponibles y la presencia de medidas de seguridad. Donny considera que nuestra aplicación es revolucionaria y sería de gran ayuda para muchos usuarios. Quedó sorprendido por la falta de información y opciones en línea para el alquiler de barcos, a pesar de que es similar al alquiler de automóviles, que es más fácil de encontrar.</br></br>Donny sugiere que la plataforma debe contar con una amplia selección de proveedores de embarcaciones, y cada proveedor debe ser contactable directamente desde la aplicación. Las publicaciones de las embarcaciones deben incluir información esencial, como el aforo, el precio, la disponibilidad de medidas de seguridad, fotos de la embarcación, reseñas de otros usuarios y un calendario de disponibilidad para evitar confusiones sobre las fechas de alquiler.
 </p>
 </div>
 
@@ -217,18 +221,18 @@
 
 <div align ="center">
 
-| Nombre        | Apellido      | Edad |
-| :------------ | :------------ | :--: |
-| Matthew Andre | Lopez Sanchez |  22  |
+| Nombre        | Apellido      | Edad | Distrito |
+| :------------ | :------------ | :--: | :------: |
+| Matthew Andre | Lopez Sanchez |  22  | Suquillo |
 
 <img src="../img/chapter-2/client-matthew-andre-lopez-sanchez-interview.png" >
 <p align="left"><strong>URL: </strong> <a href="https://youtu.be/5WwkAw4ClbY" target="_blank">Entrevista Matthew Andre Lopez Sanchez</a></p>
 <p align="justify">
-Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmente en la Dirección General de Operaciones en Salud (DGOS) del Ministerio de Salud (Minsa), donde se encarga del mantenimiento de infraestructuras hospitalarias. Sus plataformas preferidas para obtener información son Instagram y Facebook. Matthew nos informa que ha alquilado un barco en el pasado, siendo la última vez que lo hizo para disfrutar de una jornada de pesca en familia. Sin embargo, se enfrentó a dificultades para encontrar información relevante sobre el alquiler de embarcaciones debido a la escasez de recursos en línea. Utilizó Google, Facebook Marketplace e Instagram para su búsqueda, aunque no tuvo éxito en esta última plataforma.</br></br>Matthew señala que sus criterios principales al buscar un barco eran garantizar que todos los miembros de su familia tuvieran suficiente espacio a bordo y no se sintieran apretados. Además, la ubicación del barco era un factor crucial, ya que a veces se encontraban en puertos lejanos de Lima, lo que complicaba la logística. Por último, aunque el precio del alquiler no era su principal preocupación, consideraba importante que fuera razonable.</br></br>Matthew valora positivamente la idea de nuestra aplicación y considera que sería de gran utilidad tanto para él como para otros usuarios que estén en busca de alquilar o encontrar un barco. Opina que el éxito de la plataforma dependerá de una amplia selección de embarcaciones disponibles, información precisa sobre su disponibilidad, detalles como la capacidad, fecha de fabricación, estado de las revisiones técnicas y el precio. También sugiere que la plataforma incluya un historial de comentarios de personas que hayan alquilado el mismo barco previamente, para brindar una perspectiva adicional a los futuros usuarios.
+Resumen entrevista: Matthew, un graduado en Ingeniería Civil que vive en Surquillo, trabaja actualmente en la Dirección General de Operaciones en Salud (DGOS) del Ministerio de Salud (Minsa), donde se encarga del mantenimiento de infraestructuras hospitalarias. Sus plataformas preferidas para obtener información son Instagram y Facebook. Cuenta con un dispositivo móvil Apple y una computadora de escritorio Windows. Para ambos, el buscador Google Chrome es su preferido. Matthew nos informa que ha alquilado un barco en el pasado, siendo la última vez que lo hizo para disfrutar de una jornada de pesca en familia. Sin embargo, se enfrentó a dificultades para encontrar información relevante sobre el alquiler de embarcaciones debido a la escasez de recursos en línea. Utilizó Google, Facebook Marketplace e Instagram para su búsqueda, aunque no tuvo éxito en esta última plataforma.</br></br>Matthew señala que sus criterios principales al buscar un barco eran garantizar que todos los miembros de su familia tuvieran suficiente espacio a bordo y no se sintieran apretados. Además, la ubicación del barco era un factor crucial, ya que a veces se encontraban en puertos lejanos de Lima, lo que complicaba la logística. Por último, aunque el precio del alquiler no era su principal preocupación, consideraba importante que fuera razonable.</br></br>Matthew valora positivamente la idea de nuestra aplicación y considera que sería de gran utilidad tanto para él como para otros usuarios que estén en busca de alquilar o encontrar un barco. Opina que el éxito de la plataforma dependerá de una amplia selección de embarcaciones disponibles, información precisa sobre su disponibilidad, detalles como la capacidad, fecha de fabricación, estado de las revisiones técnicas y el precio. También sugiere que la plataforma incluya un historial de comentarios de personas que hayan alquilado el mismo barco previamente, para brindar una perspectiva adicional a los futuros usuarios.
 </p>
 </div>
 
-### **Usuario otro**
+### **Usuario propietarios de embarcaciones**
 
 <h4>Entrevista 1</h4>
 
@@ -242,7 +246,7 @@ Resumen entrevista: Matthew, un graduado en Ingeniería Civil, trabaja actualmen
 <p align="left"><strong>URL: </strong> <a href="https://youtu.be/nv7xe4Ecb5k?si=MmMWX_0EhdJv_9ZS" target="_blank">Entrevista a Jessica Morales</a></p>
 <p align="justify">Resumen entrevista: Jessica Morales, actualmente labora en Serpac, una empresa intermediaria que genera contacto entre empreass mineras y empresas de alquiler de barcos especializados en transporte de ocbre o Zinc. Esta encargada del área de operaciones, en el cuál su labor es generar un contrato "fletamento" donde se encuentran las clausulas ante cualquier evento que pueda surgir durante el transporte, de igual manera se genera un doucmento, "Estado de hechos" del cual las 3 partes deben generar. En este documento es registrado las actividades antes, durante y despues del arrivo. Finalmente, se llega a un acuerdo con las 3 partes referente al calculo final del "Estado de hechos", donde Serpac actúa como el intermediario para poder generar un acuerdo que satisfaga a ambas partes. </p>
 </div>
-<h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
+<h3 id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</h3>
 
 Después de llevar a cabo las entrevistas planificadas con el cliente y los alquiladores de barcos, hemos recopilado información valiosa para el proyecto actual.
 
@@ -252,23 +256,23 @@ Después de llevar a cabo las entrevistas planificadas con el cliente y los alqu
 
 <p align="justify">Se pone de manifiesto la necesidad de una solución unificada para el alquiler de embarcaciones. Los clientes subrayan la importancia de una publicación clara, la comunicación con los propietarios de las embarcaciones y una transacción rápida y segura. Esta demanda podría abordarse mediante la utilización de plataformas digitales que faciliten una comunicación fluida entre los arrendadores de embarcaciones y los clientes.</br></br>También existe una necesidad de confianza en los arrendadores de embarcaciones y los clientes, lo que podría ser abordado a través de la implementación de sistemas de calificación y reseñas en línea que permitan a los clientes evaluar a los arrendadores.</br></br>Además, se precisa de un impecable control de las revisiones técnicas que debe tener la embarcación al día para garantizar la seguridad de nuestros usuarios.</br></br>En general, Swift Ship podría abordar todas estas necesidades al proporcionar una plataforma en línea que facilite el contacto con arrendadores de barcos, la implementación de un sistema de calificación y reseñas en línea para aumentar la confianza en los arrendadores y el exhaustivo control de las revisiones técnicas y de seguridad con las que deben contar los barcos para asegurar la seguridad de los clientes.</p>
 
-<h3><a id="needfinding">2.3. Needfinding</a></h3>
+<h3 id="needfinding">2.3. Needfinding</h3>
 
 Needfinding es un paso esencial que implica la búsqueda y comprensión de las necesidades del mercado. Identificar estas necesidades a través de la investigación nos permite generar soluciones innovadoras basadas en las demandas concretas de los usuarios.
 
-<h3><a id="user-personas">2.3.1. User Personas</a></h3>
+<h3 id="user-personas">2.3.1. User Personas</h3>
 
 #### Cliente
 
 <div align="center">
-   <img src="static/needfinding/User-Persona-Cliente-Matthew-Lopez.png">
+   <img src="../img/chapter-2/client-user-persona.png">
 </div>
 
-<h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
+<h3 id="user-task-matrix">2.3.2. User Task Matrix</h3>
 
 Se efectúa un análisis de las funciones clave identificadas en la problemática, fundamentado en los comentarios recopilados de los dos grupos de usuarios: Cliente y Dueño de barcos.
 
-<div align="center">
+<div style="text-align:right;align-items:center;justify-content:center;">
    <table>
       <thead>
          <tr>
@@ -368,7 +372,7 @@ Se efectúa un análisis de las funciones clave identificadas en la problemátic
    </table>
 </div>
 
-<h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
+<h3 id="user-journey-mapping">2.3.3. User Journey Mapping</h3>
 
 #### **Segmento 1:** Cliente que desea alquilar un barco
 
@@ -386,8 +390,10 @@ En esta sección, se muestra el Empathy Mapping de los tres segmentos a los que 
    <img src="../img/chapter-2/client-empathy-map.png">
 </div>
 
-<h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
+
+<h3 id="as-is">2.3.5. As-is Scenario Mapping</h3>
 <h4>Segmento 1. Cliente que reservara la embarcacion</h2>
 <img src="../img/chapter-2/client-as-is.jpg" align="center">
 <h4>Segmento 2. Dueño de una embarcacion</h4>
 <img src="../img/chapter-2/boat-owner-as-is.jpg" align="center">
+
