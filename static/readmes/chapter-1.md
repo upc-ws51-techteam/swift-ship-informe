@@ -74,11 +74,12 @@ Aquellos que desean probar diferentes tipos de embarcaciones antes de tomar una 
 
 <h3 id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3 id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
-En el contexto de la industria de alquiler de embarcaciones, enfrentamos una serie de desafíos significativos que afectan la experiencia de los clientes y la adopción de nuestro servicio. Los problemas predominantes incluyen la falta de acceso conveniente a una variedad de embarcaciones, la falta de información clara sobre las opciones disponibles, la complejidad de las reservas y la falta de orientación personalizada para los clientes. <br>
-Esto lleva a una problemática importante: muchas personas se sienten abrumadas y desinformadas al planificar una experiencia de alquiler de embarcaciones, lo que disminuye su satisfacción y puede llevar a una disminución en la demanda de servicios de alquiler de embarcaciones.
-</br>
-</br>
-El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las personas tengan acceso fácil a una variedad de embarcaciones de calidad, reciban información clara sobre las opciones disponibles y disfruten de una experiencia de alquiler de embarcaciones sin problemas y altamente personalizada? ¿Cómo podemos simplificar el proceso y brindar orientación a los clientes para que tengan una experiencia excepcional en el agua?
+En el contexto de la industria de alquiler de embarcaciones, enfrentamos una serie de desafíos significativos que afectan tanto a aquellos que desean alquilar barcos como a quienes desean alquilar sus barcos. Los desafíos que predominan incluyen la falta de acceso conveniente a una variedad de embarcaciones, la falta de información clara sobre las opciones disponibles, la complejidad en el proceso de reserva y la ausencia de una orientación personalizada para los clientes. Estos problemas tienen un impacto significativo en la satisfacción del cliente y pueden resultar en una disminución en la demanda de servicios de alquiler de embarcaciones.
+
+El reto que enfrentamos es doble: por un lado, debemos garantizar que las personas puedan acceder de manera sencilla a una amplia gama de embarcaciones de alta calidad, recibir información precisa y transparente sobre las opciones disponibles, y disfrutar de una experiencia de alquiler de embarcaciones sin complicaciones. Por otro lado, debemos simplificar el proceso tanto para quienes desean alquilar como para quienes desean que sus barcos sean alquilados, brindando orientación personalizada para que todos los clientes tengan una experiencia excepcional en el agua.
+
+Este problema se presenta tanto en el lado de la oferta, donde los propietarios de embarcaciones buscan alquilar sus activos de manera eficiente, como en el lado de la demanda, donde los interesados en alquilar enfrentan obstáculos para encontrar y reservar la embarcación adecuada. Nuestra tarea es encontrar una solución integral que aborde estas preocupaciones y mejore la experiencia general en la industria de alquiler de embarcaciones. Nuestras principales interrogantes serían:
+¿Cómo podemos garantizar que las personas tengan acceso fácil a una variedad de embarcaciones de calidad, reciban información clara sobre las opciones disponibles y disfruten de una experiencia de alquiler de embarcaciones sin problemas y altamente personalizada? ¿Cómo podemos simplificar el proceso y brindar orientación a los clientes para que tengan una experiencia excepcional en el agua?
 
 <h3 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</h3>
 <div align='justify'>
@@ -121,11 +122,11 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
 <div align='justify'>
 
    <ul>
-      <li>Plataforma de Reserva de Embarcaciones: Proporciona a los usuarios la capacidad de buscar y reservar una amplia variedad de embarcaciones, incluidas lanchas rápidas, veleros, yates, kayaks, etc.</li>
-      <li>Perfiles de Usuarios: Permite a los usuarios crear perfiles personalizados para que puedan registrar sus preferencias y necesidades, como el tipo de embarcación que prefieren, la ubicación de salida, la duración del alquiler y cualquier requisito especial.</li>
-      <li>Herramientas de Comunicación: Facilita la comunicación entre propietarios de embarcaciones y clientes para discutir detalles de la reserva, itinerarios personalizados y cualquier solicitud especial.
+      <li>Ofrecemos una página web o app donde puedes buscar y reservar diferentes tipos de barcos, desde lanchas veloces hasta veleros y kayaks. Esto te da muchas opciones para elegir y también permite a los dueños de los barcos encontrar más personas interesadas en alquilar sus embarcaciones.</li>
+      <li>Puedes crear un perfil en nuestro sistema donde nos cuentas tus preferencias. Por ejemplo, qué tipo de barco te gusta, dónde quieres empezar tu viaje, cuánto tiempo planeas alquilar y si tienes algún pedido especial. Esto nos ayuda a ofrecerte exactamente lo que necesitas y hace que tu experiencia sea mucho mejor.</li>
+      <li>Hacemos que sea sencillo hablar con los dueños de los barcos. Puedes usar nuestro sistema para preguntarles cualquier cosa sobre tu reserva, hacer planes especiales para tu viaje y pedir cosas adicionales si las necesitas. Así, puedes resolver cualquier duda o solicitud sin problemas.
       </li>
-      <li>Seguimiento de la Experiencia: Permite a los clientes realizar un seguimiento de su experiencia de alquiler, dejar comentarios y calificaciones, y proporcionar retroalimentación a los propietarios de embarcaciones.
+      <li>Después de tu viaje, puedes decirnos cómo te fue. Puedes contar tu experiencia, dar tu opinión y calificar tanto al barco como al dueño. Esto ayuda a otros usuarios a tomar decisiones informadas y permite a los dueños mejorar sus servicios.
       </li>
    </ul>
 
@@ -148,7 +149,7 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
   <li><strong>Resolveremos esto a través de</strong> un desarrollo continuo de la plataforma, pruebas de usabilidad y medidas de seguridad sólidas para proteger la privacidad de los usuarios y la integridad de sus datos.
 </li>
 </ol>
-
+<br>
 <h4>Suposiciones de usuario</h4>
 <div align='justify'>
 <ol>
@@ -203,28 +204,29 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
     <li>
         <strong>1ra Hipótesis:</strong>
         <ul>
-            <li>Creemos que ofrecer a los usuarios una plataforma de alquiler de embarcaciones que ofrezca acceso a una variedad de embarcaciones y opciones personalizadas mejorará su compromiso con nuestro servicio.</li>
-            <li>Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en el número de reservas mensuales y una disminución del 15% en las cancelaciones de reservas.</li>
+            <li>Al ofrecer una plataforma donde los usuarios pueden buscar y reservar una amplia variedad de embarcaciones, aumentaremos el número de reservas de barcos en nuestro servicio, ya que los clientes encontrarán opciones más adecuadas a sus necesidades.</li>
         </ul>
     </li>
     <li>
         <strong>2da Hipótesis:</strong>
         <ul>
-            <li>Creemos que proporcionar a los propietarios de embarcaciones una plataforma efectiva para listar sus barcos y comunicarse con los clientes aumentará su participación en nuestro servicio de alquiler.</li>
-            <li>Sabremos que hemos tenido éxito cuando notemos un aumento del 30% en el número de embarcaciones listadas en los primeros tres meses y recibamos comentarios positivos de los propietarios sobre la facilidad de uso de la plataforma.</li>
+            <li>Al permitir que los usuarios creen perfiles personalizados con sus preferencias y necesidades específicas, mejoraremos la retención de clientes y la satisfacción, ya que las ofertas se adaptarán de manera más precisa a sus deseos individuales.</li>
         </ul>
     </li>
     <li>
         <strong>3ra Hipótesis:</strong>
         <ul>
-            <li>Creemos que al implementar una función de retroalimentación de los clientes y permitirles dejar comentarios y calificaciones, mejoraremos la calidad de las experiencias de alquiler.</li>
-            <li>Sabremos que hemos tenido éxito cuando observemos un aumento del 25% en las calificaciones y comentarios positivos de los clientes sobre las experiencias de alquiler.</li>
+            <li>Al facilitar la comunicación directa entre propietarios de embarcaciones y clientes, reduciremos el número de problemas de comunicación y malentendidos, lo que llevará a una mayor confianza entre ambas partes y, en última instancia, a un aumento en las reservas exitosas.</li>
+        </ul>
+        <strong>3ra Hipótesis:</strong>
+        <ul>
+            <li>Al permitir que los clientes hagan un seguimiento de su experiencia de alquiler, dejen comentarios y calificaciones, fomentaremos la mejora continua en la calidad de las embarcaciones y servicios ofrecidos, lo que aumentará la satisfacción del cliente y la reputación de los propietarios.</li>
         </ul>
     </li>
 </ul>
 <h3 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas</h3>
 <div align="center">
- <img src="../img/chapter-1/ux-canvas.png" >
+ <img src="../img/chapter-1/UXCANVASSOURCE.png" >
 <br>
   <a href="https://app.mural.co/t/works0599/m/works0599/1694192145971/9dc9c675bdf05a7bbb816f8a45b1bc96a325cfca?sender=u02657958e0bf79f3c7e04296 ">Enlace al Mural</a>
 
