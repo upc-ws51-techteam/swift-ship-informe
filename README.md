@@ -186,7 +186,7 @@ A continuación, se presentan algunas de las capturas de imagen que muestran la 
 
 <div align="center">
    <img src="./static/img/report-colaboration-insights/sprint-1/members.png">
-   <img src="./static/img/report-colaboration-insights/sprint-1/landing-overview.png">
+   <img src="./static/img/report-colaboration-insights/sprint-2/insights.png">
 </div>
 
 <div align="center">
