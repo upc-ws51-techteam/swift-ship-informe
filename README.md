@@ -1020,6 +1020,12 @@ En esta seccion se presentan los diagramas de la arquitectura de software con ap
    Enlace del <a href="https://structurizr.com/share/86372">Software Architecture Container Diagrams</a>
 </div>
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
+
+<div align="center">
+   <img src="./static/API Component Diagram.png">
+   <br>
+   Enlace del <a href="https://lucid.app/lucidchart/1db57fe9-2404-40f9-91ef-25ccf640f7ef/edit?viewport_loc=1296%2C-444%2C4676%2C2516%2C0_0&invitationId=inv_9e1837b0-c126-4ad1-9c7d-902b3d30721f"> API Component Diagram </a>
+</div>
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
 <h3><a id="class-diagrams">4.7.1. Class Diagrams</a></h3>
 <h3><a id="class-dictionary">4.7.2. Class Dictionary</a></h3>
